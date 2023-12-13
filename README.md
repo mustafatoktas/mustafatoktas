@@ -64,7 +64,7 @@ hobbies:
 
 - **A** &nbsp;&nbsp; -> Android Projects
   - **Just A** &nbsp;&nbsp; -> Functional Android Projects
-  - **A.UI** &nbsp;&nbsp; -> Interface Work (non-functional)
+  - **A.UI** &nbsp;&nbsp; -> User Interface Work (non-functional)
 
 - **W** &nbsp;&nbsp; -> WEB Projects 
   - **W.FS** &nbsp;&nbsp; -> Fullstack Web Projects
@@ -72,7 +72,7 @@ hobbies:
   - **W.FE** &nbsp;&nbsp; -> Front-end Web Projects
 - **D** &nbsp;&nbsp; -> Desktop Projects
   - **Just D** &nbsp;&nbsp; -> Functional Desktop Projects
-  - **D.UI** &nbsp;&nbsp; -> Interface Work (non-functional)
+  - **D.UI** &nbsp;&nbsp; -> User Interface Work (non-functional)
 - **O** &nbsp;&nbsp; -> Other Projects (for ex. Arduino projects)
 
 
