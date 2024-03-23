@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/mustafatoktas/" target="_blank"><img src="./resources/pictures/social media/linkedin.png" alt="LinkedIn" width="64" heigh="64"/></a>
   <a href="https://www.mustafatoktas.com" target="_blank"><img src="./resources/pictures/social media/my website.png" alt="My Website" width="64" heigh="64"/></a>
   <a href="https://www.instagram.com/mustafatoktas00/" target="_blank"><img src="./resources/pictures/social media/instagram.png" alt="Instagram" width="64" heigh="64"/></a>
-  <a href="https://steamcommunity.com/id/mtoktas/" target="_blank"><img src="./resources/pictures/social media/steam.png" alt="Steam" width="64" heigh="64"/></a>
+  <a href="https://steamcommunity.com/id/mustafatoktas/" target="_blank"><img src="./resources/pictures/social media/steam.png" alt="Steam" width="64" heigh="64"/></a>
   <a href="https://www.youtube.com/@mustafatoktas" target="_blank"><img src="./resources/pictures/social media/youtube.png" alt="Youtube" width="64" heigh="64"/></a>
 </p>
 
