@@ -17,8 +17,8 @@
   <a href="https://www.youtube.com/@mustafatoktas" target="_blank"><img src="./resources/pictures/social media/youtube.png" alt="Youtube" width="64" heigh="64"/></a>
 </p>
 
----
 
+---
 ## A Little Bit About Me and My Interests
 
 
@@ -59,24 +59,8 @@ hobbies:
     "Music"
   ]
 ```
----
-## My Github Repository Naming
-
-- **A** &nbsp;&nbsp; -> Android Projects
-  - **Just A** &nbsp;&nbsp; -> Functional Android Projects
-  - **A.UI** &nbsp;&nbsp; -> User Interface Work (non-functional)
-
-- **W** &nbsp;&nbsp; -> WEB Projects 
-  - **W.FS** &nbsp;&nbsp; -> Fullstack Web Projects
-  - **W.BE** &nbsp;&nbsp; -> Back-end Web Projects
-  - **W.FE** &nbsp;&nbsp; -> Front-end Web Projects
-- **D** &nbsp;&nbsp; -> Desktop Projects
-  - **Just D** &nbsp;&nbsp; -> Functional Desktop Projects
-  - **D.UI** &nbsp;&nbsp; -> User Interface Work (non-functional)
-- **O** &nbsp;&nbsp; -> Other Projects (for ex. Arduino projects)
 
 
-  
 ---
 ## Language & Framework
 <p align="left">
@@ -124,8 +108,25 @@ hobbies:
 <a href="https://github.com" target="_blank">   <img src="./resources/pictures/tools and others/github.svg" alt="Github" width="64" heigh="64"/> </a>
 </p>
 
----
 
+---
+## My Github Repository Naming
+
+- **A** &nbsp;&nbsp; -> Android Projects
+  - **Just A** &nbsp;&nbsp; -> Functional Android Projects
+  - **A.UI** &nbsp;&nbsp; -> User Interface Work (non-functional)
+
+- **W** &nbsp;&nbsp; -> WEB Projects 
+  - **W.FS** &nbsp;&nbsp; -> Fullstack Web Projects
+  - **W.BE** &nbsp;&nbsp; -> Back-end Web Projects
+  - **W.FE** &nbsp;&nbsp; -> Front-end Web Projects
+- **D** &nbsp;&nbsp; -> Desktop Projects
+  - **Just D** &nbsp;&nbsp; -> Functional Desktop Projects
+  - **D.UI** &nbsp;&nbsp; -> User Interface Work (non-functional)
+- **O** &nbsp;&nbsp; -> Other Projects (for ex. Arduino projects)
+
+
+---
 ## System Features
 <div>
 <img align="right"  src="./resources/gifs/coder boy.gif" alt="Coder Boy" width="450" />
@@ -160,7 +161,7 @@ Nvidia® GeForce RTX 2070 Super
 
 <img src="./resources/gifs/snake.svg" alt="Snake">
 
-###### Last update of README.md file: 8 December 2023
+###### Last update of README.md file: 24 March 2024
 
 <!-- "mustafatoktas/mustafatoktas" is a  _special_  repository because  this file (README.md) appears in my GitHub profile -->
 
