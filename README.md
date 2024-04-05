@@ -37,8 +37,7 @@ technical_background:
   ]
 education:
   [
-    "Management Information Systems  @Ankara University",
-    "Electrical Engineering          @Kocaeli University",
+    "Electrical Engineering        @Kocaeli University",
   ]
 fields_of_interests:
   [
@@ -51,12 +50,13 @@ currently_learning:
   [
     "Jetpack Compose", 
     "Kobweb",
+    "Ktor",
   ]
 hobbies:
   [
     "Age of Empires 3 DE",
-    "Book",
-    "Music"
+    "Cycling",
+    "Book"
   ]
 ```
 
@@ -161,7 +161,7 @@ Nvidia® GeForce RTX 2070 Super
 
 <img src="./resources/gifs/snake.svg" alt="Snake">
 
-###### Last update of README.md file: 24 March 2024
+###### Last update of README.md file: 5 April 2024
 
 <!-- "mustafatoktas/mustafatoktas" is a  _special_  repository because  this file (README.md) appears in my GitHub profile -->
 
