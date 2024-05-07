@@ -123,7 +123,7 @@ hobbies:
 - **D** &nbsp;&nbsp; -> Desktop Projects
   - **Just D** &nbsp;&nbsp; -> Functional Desktop Projects
   - **D.UI** &nbsp;&nbsp; -> User Interface Work (non-functional)
-- **O** &nbsp;&nbsp; -> Other Projects (for ex. Arduino projects)
+- **O** &nbsp;&nbsp; -> Other Projects (for ex. Arduino, Console Projects)
 
 
 ---
