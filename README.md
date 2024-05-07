@@ -9,7 +9,7 @@
 </div>
 
 <p align="center">
-  <a href="mailto:info@mustafatoktas.com" target="_blank"><img src="./Readme Resources//pictures/social media/mail.png" alt="Email" width="64" heigh="64"/></a>
+  <a href="mailto:info@mustafatoktas.com" target="_blank"><img src="./Readme Resources//pictures/social media/Mail.png" alt="Email" width="64" heigh="64"/></a>
   <a href="https://www.linkedin.com/in/mustafatoktas/" target="_blank"><img src="./Readme Resources/pictures/social media/LinkedIn.png" alt="LinkedIn" width="64" heigh="64"/></a>
     <a href="https://www.youtube.com/@mustafatoktas" target="_blank"><img src="./Readme Resources/pictures/social media/YouTube.png" alt="Youtube" width="64" heigh="64"/></a>
   <a href="https://www.mustafatoktas.com" target="_blank"><img src="./Readme Resources/pictures/social media/Web Site.png" alt="My Website" width="64" heigh="64"/></a>
