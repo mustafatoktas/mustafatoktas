@@ -30,14 +30,14 @@ current_job: Android & WEB Developer
 company: Toktasoft
 technical_background:
   [
-    "Freelance Software Developer  @Toktasoft,            May 2020 - Present",
-    "Software Developer            @Lavira Rocket,        Oct 2022 - Jan 2023",
-    "Software Developer            @KOU ElectriCar,       Oct 2021 - Sep 2022",
-    "Intern R&D Engineer           @Daiichi Electronics,  Jul - Aug 2021",
+    "Freelance Software Developer  @Toktasoft             May 2020 - Present",
+    "Software Developer            @Lavira Rocket         Oct 2022 - Jan 2023",
+    "Software Developer            @KOU ElectriCar        Oct 2021 - Sep 2022",
+    "Intern R&D Engineer           @Daiichi Electronics   Jul 2021 - Aug 2021",
   ]
 education:
   [
-    "Electrical Engineering        @Kocaeli University",
+    "Electrical Engineering        @Kocaeli University    2018 - 2024",
   ]
 fields_of_interests:
   [
