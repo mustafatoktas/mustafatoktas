@@ -7,12 +7,12 @@
 </div>
 
 <p align="center">
-  <a href="mailto:info@mustafatoktas.com"                target="_blank"> <img src="./Readme Resources/Social Media/Mail.png"       alt="Email"      width="64" heigh="64"/> </a>
-  <a href="https://www.linkedin.com/in/mustafatoktas/"   target="_blank"> <img src="./Readme Resources/Social Media/LinkedIn.png"   alt="LinkedIn"   width="64" heigh="64"/> </a>
-  <a href="https://www.youtube.com/@mustafatoktas"       target="_blank"> <img src="./Readme Resources/Social Media/YouTube.png"    alt="Youtube"    width="64" heigh="64"/> </a>
-  <a href="https://www.mustafatoktas.com"                target="_blank"> <img src="./Readme Resources/Social Media/Web Design.png" alt="My Website" width="64" heigh="64"/> </a>
-  <a href="https://www.instagram.com/mustafatoktas00/"   target="_blank"> <img src="./Readme Resources/Social Media/Instagram.png"  alt="Instagram"  width="64" heigh="64"/> </a>
-  <a href="https://steamcommunity.com/id/mustafatoktas/" target="_blank"> <img src="./Readme Resources/Social Media/Steam.png"      alt="Steam"      width="64" heigh="64"/> </a>
+  <a href="mailto:info@mustafatoktas.com"                target="_blank"> <img src="./Readme Resources/Social Media/Mail.png"       alt="" width="64" heigh="64"/> </a>
+  <a href="https://www.linkedin.com/in/mustafatoktas/"   target="_blank"> <img src="./Readme Resources/Social Media/LinkedIn.png"   alt="" width="64" heigh="64"/> </a>
+  <a href="https://www.youtube.com/@mustafatoktas"       target="_blank"> <img src="./Readme Resources/Social Media/YouTube.png"    alt="" width="64" heigh="64"/> </a>
+  <a href="https://www.mustafatoktas.com"                target="_blank"> <img src="./Readme Resources/Social Media/Web Design.png" alt="" width="64" heigh="64"/> </a>
+  <a href="https://www.instagram.com/mustafatoktas00/"   target="_blank"> <img src="./Readme Resources/Social Media/Instagram.png"  alt="" width="64" heigh="64"/> </a>
+  <a href="https://steamcommunity.com/id/mustafatoktas/" target="_blank"> <img src="./Readme Resources/Social Media/Steam.png"      alt="" width="64" heigh="64"/> </a>
 </p>
 
 <img src="./Readme%20Resources/Line.png" alt="-----------------------------------------------------"/>
@@ -64,12 +64,12 @@ hobbies:
 ## Language & Framework
 
 <p align="left">
-  <a href="https://kotlinlang.org"                              target="_blank"> <img src="./Readme Resources/Language & Framework/Kotlin.png"          alt="Kotlin"          width="64" heigh="64"/> </a>
-  <a href="https://developer.android.com/jetpack/compose"       target="_blank"> <img src="./Readme Resources/Language & Framework/Jetpack Compose.png" alt="Jetpack Compose" width="64" heigh="64"/> </a>
-  <a href="https://kobweb.varabyte.com"                         target="_blank"> <img src="./Readme Resources/Language & Framework/Kobweb.png"          alt="Kobweb"          width="64" heigh="64"/> </a>
-  <a href="https://ktor.io"                                     target="_blank"> <img src="./Readme Resources/Language & Framework/Ktor.png"            alt="Ktor"            width="64" heigh="64"/> </a>
-  <img src="./Readme Resources/Language & Framework/C.png"                                                                                              alt="C"               width="64" heigh="64"/>
-  <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank"> <img src="./Readme Resources/Language & Framework/C Sharp.png"         alt="C#"              width="64" heigh="64"/> </a>
+  <a href="https://kotlinlang.org"                              target="_blank"> <img src="./Readme Resources/Language & Framework/Kotlin.png"          alt="" width="64" heigh="64"/> </a>
+  <a href="https://developer.android.com/jetpack/compose"       target="_blank"> <img src="./Readme Resources/Language & Framework/Jetpack Compose.png" alt="" width="64" heigh="64"/> </a>
+  <a href="https://kobweb.varabyte.com"                         target="_blank"> <img src="./Readme Resources/Language & Framework/Kobweb.png"          alt="" width="64" heigh="64"/> </a>
+  <a href="https://ktor.io"                                     target="_blank"> <img src="./Readme Resources/Language & Framework/Ktor.png"            alt="" width="64" heigh="64"/> </a>
+  <img src="./Readme Resources/Language & Framework/C.png"                                                                                              alt="" width="64" heigh="64"/>
+  <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank"> <img src="./Readme Resources/Language & Framework/C Sharp.png"         alt="" width="64" heigh="64"/> </a>
 </p>
 
 
