@@ -2,7 +2,7 @@
 
 <h1 align="center">Hey There 👋 I'm Mustafa</h1>
 
-<br/>
+<br>
 
 <div align=center>
   <img src="./Readme Resources/Playing/My Job.svg" alt="Headline" />
@@ -23,7 +23,7 @@
 
 
 ```yaml
-name: Mustafa TOKTAS
+name: Mustafa TOKTAŞ
 birth: 1999
 located_in: Kocaeli, Turkey
 current_job: Android & WEB Developer
@@ -153,14 +153,14 @@ hobbies:
 
   <p align="left">
     Samsung 970 Evo 1 TB m.2 SSD
-    <br/>
+    <br>
     Samsung PM981a 512 GB m.2 SSD
   </p>
 </div>
 
 <img src="./Readme Resources/Playing/Snake.svg" alt="Snake">
 
-###### Last update of README.md file: 8 May 2024
+###### Last update of README.md file: 9 May 2024
 
 <!-- "mustafatoktas/mustafatoktas" is a  _special_  repository because  this file (README.md) appears in my GitHub profile -->
 
