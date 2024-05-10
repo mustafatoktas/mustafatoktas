@@ -15,7 +15,7 @@
   <a href="https://steamcommunity.com/id/mustafatoktas/" target="_blank"> <img src="./Readme Resources/Social Media/Steam.png"      alt="Steam"      width="64" heigh="64"/> </a>
 </p>
 
-<img src="./Readme%20Resources/Line.png" alt="-----------------------------------------------------"/>
+![-----------------------------------------------------](./Readme%20Resources/Line.png)
 
 
 ## A Little Bit About Me and My Interests
@@ -58,7 +58,7 @@ hobbies:
   ]
 ```
 
-<img src="./Readme%20Resources/Line.png" alt="-----------------------------------------------------"/>
+![-----------------------------------------------------](./Readme%20Resources/Line.png)
 
 
 ## Language & Framework
@@ -111,7 +111,7 @@ hobbies:
   <a href="https://github.com"      target="_blank"> <img src="./Readme Resources/Tool and Other/Github.png"  alt="Github"  width="64" heigh="64"/> </a>
 </p>
 
-<img src="./Readme%20Resources/Line.png" alt="-----------------------------------------------------"/>
+![-----------------------------------------------------](./Readme%20Resources/Line.png)
 
 
 ## My Github Repository Naming
@@ -129,7 +129,7 @@ hobbies:
   - **D.UI** &nbsp;&nbsp; -> User Interface Work (non-functional)
 - **O** &nbsp;&nbsp; -> Other Projects (for ex. Arduino, Console Projects)
 
-<img src="./Readme%20Resources/Line.png" alt="-----------------------------------------------------"/>
+![-----------------------------------------------------](./Readme%20Resources/Line.png)
 
 
 ## My System Features
@@ -150,7 +150,7 @@ Samsung 970 Evo 1 TB m.2 SSD
 <br>
 Samsung PM981a 512 GB m.2 SSD
 
-<img src="./Readme%20Resources/Line.png" alt="-----------------------------------------------------"/>
+![-----------------------------------------------------](./Readme%20Resources/Line.png)
 
 <img src="./Readme Resources/Playing/Snake.svg" alt="Snake"/>
 
