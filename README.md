@@ -1,4 +1,4 @@
-<img src="./Readme Resources/Banner.png" alt="banner"/>
+<img src="./Readme Resources/Banner.png" alt="Banner"/>
 
 <h1 align="center">Hey There 👋 I'm Mustafa</h1>
 
@@ -7,12 +7,12 @@
 </div>
 
 <p align="center">
-  <a href="mailto:info@mustafatoktas.com"                target="_blank"> <img src="./Readme Resources/Social Media/Mail.png"       alt="" width="64" heigh="64"/> </a>
-  <a href="https://www.linkedin.com/in/mustafatoktas/"   target="_blank"> <img src="./Readme Resources/Social Media/LinkedIn.png"   alt="" width="64" heigh="64"/> </a>
-  <a href="https://www.youtube.com/@mustafatoktas"       target="_blank"> <img src="./Readme Resources/Social Media/YouTube.png"    alt="" width="64" heigh="64"/> </a>
-  <a href="https://www.mustafatoktas.com"                target="_blank"> <img src="./Readme Resources/Social Media/Web Design.png" alt="" width="64" heigh="64"/> </a>
-  <a href="https://www.instagram.com/mustafatoktas00/"   target="_blank"> <img src="./Readme Resources/Social Media/Instagram.png"  alt="" width="64" heigh="64"/> </a>
-  <a href="https://steamcommunity.com/id/mustafatoktas/" target="_blank"> <img src="./Readme Resources/Social Media/Steam.png"      alt="" width="64" heigh="64"/> </a>
+  <a href="mailto:info@mustafatoktas.com"                target="_blank"> <img src="./Readme Resources/Social Media/Mail.png"       alt="Mail"       width="64" heigh="64"/> </a>
+  <a href="https://www.linkedin.com/in/mustafatoktas/"   target="_blank"> <img src="./Readme Resources/Social Media/LinkedIn.png"   alt="Linkedin"   width="64" heigh="64"/> </a>
+  <a href="https://www.youtube.com/@mustafatoktas"       target="_blank"> <img src="./Readme Resources/Social Media/YouTube.png"    alt="Youtube"    width="64" heigh="64"/> </a>
+  <a href="https://www.mustafatoktas.com"                target="_blank"> <img src="./Readme Resources/Social Media/My Website.png" alt="My Website" width="64" heigh="64"/> </a>
+  <a href="https://www.instagram.com/mustafatoktas00/"   target="_blank"> <img src="./Readme Resources/Social Media/Instagram.png"  alt="Instagram"  width="64" heigh="64"/> </a>
+  <a href="https://steamcommunity.com/id/mustafatoktas/" target="_blank"> <img src="./Readme Resources/Social Media/Steam.png"      alt="Steam"      width="64" heigh="64"/> </a>
 </p>
 
 <img src="./Readme%20Resources/Line.png" alt="-----------------------------------------------------"/>
@@ -64,12 +64,12 @@ hobbies:
 ## Language & Framework
 
 <p align="left">
-  <a href="https://kotlinlang.org"                              target="_blank"> <img src="./Readme Resources/Language & Framework/Kotlin.png"          alt="" width="64" heigh="64"/> </a>
-  <a href="https://developer.android.com/jetpack/compose"       target="_blank"> <img src="./Readme Resources/Language & Framework/Jetpack Compose.png" alt="" width="64" heigh="64"/> </a>
-  <a href="https://kobweb.varabyte.com"                         target="_blank"> <img src="./Readme Resources/Language & Framework/Kobweb.png"          alt="" width="64" heigh="64"/> </a>
-  <a href="https://ktor.io"                                     target="_blank"> <img src="./Readme Resources/Language & Framework/Ktor.png"            alt="" width="64" heigh="64"/> </a>
-  <img src="./Readme Resources/Language & Framework/C.png"                                                                                              alt="" width="64" heigh="64"/>
-  <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank"> <img src="./Readme Resources/Language & Framework/C Sharp.png"         alt="" width="64" heigh="64"/> </a>
+  <a href="https://kotlinlang.org"                              target="_blank"> <img src="./Readme Resources/Language & Framework/Kotlin.png"          alt="Kotlin"          width="64" heigh="64"/> </a>
+  <a href="https://developer.android.com/jetpack/compose"       target="_blank"> <img src="./Readme Resources/Language & Framework/Jetpack Compose.png" alt="Jetpack Compose" width="64" heigh="64"/> </a>
+  <a href="https://kobweb.varabyte.com"                         target="_blank"> <img src="./Readme Resources/Language & Framework/Kobweb.png"          alt="Kobweb"          width="64" heigh="64"/> </a>
+  <a href="https://ktor.io"                                     target="_blank"> <img src="./Readme Resources/Language & Framework/Ktor.png"            alt="Ktor"            width="64" heigh="64"/> </a>
+  <img src="./Readme Resources/Language & Framework/C.png"                                                                                              alt="C"               width="64" heigh="64"/>
+  <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank"> <img src="./Readme Resources/Language & Framework/C Sharp.png"         alt="C#"              width="64" heigh="64"/> </a>
 </p>
 
 
@@ -154,6 +154,6 @@ Samsung PM981a 512 GB m.2 SSD
 
 <img src="./Readme Resources/Playing/Snake.svg" alt="Snake"/>
 
-###### Last update of README.md file: 9 May 2024
+###### Last update of README.md file: 10 May 2024
 
 <!-- "mustafatoktas/mustafatoktas" is a  _special_  repository because  this file (README.md) appears in my GitHub profile -->
