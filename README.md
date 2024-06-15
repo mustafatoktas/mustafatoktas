@@ -35,7 +35,7 @@ technical_background:
   ]
 education:
   [
-    "Electrical Engineering        @Kocaeli University    2018 - 2024",
+    "Electrical Engineering        @Kocaeli University    2018 - 2023",
   ]
 fields_of_interests:
   [
@@ -154,6 +154,6 @@ Samsung PM981a 512 GB m.2 SSD
 
 <img src="./Readme Resources/Playing/Snake.svg" alt="Snake"/>
 
-###### Last update of README.md file: 10 May 2024
+###### Last update of README.md file: 15 June 2024
 
 <!-- "mustafatoktas/mustafatoktas" is a  _special_  repository because  this file (README.md) appears in my GitHub profile -->
