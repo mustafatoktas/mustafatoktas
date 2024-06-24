@@ -1,6 +1,6 @@
 <img src="./Readme Resources/Banner.png" alt="Banner"/>
 
-<h1 align="center">Hey There 👋 I'm Mustafa</h1>
+<h1 align="center">Hey There <img src="./Readme Resources/Playing/Waving Hand.gif" alt="Waving Hand" width="40" heigh="40"/> I'm Mustafa</h1>
 
 <div align=center>
   <img src="./Readme Resources/Playing/My Job.svg" alt="Headline"/>
@@ -154,6 +154,4 @@ Samsung PM981a 512 GB m.2 SSD
 
 <img src="./Readme Resources/Playing/Snake.svg" alt="Snake"/>
 
-###### Last update of README.md file: 15 June 2024
-
-<!-- "mustafatoktas/mustafatoktas" is a  _special_  repository because  this file (README.md) appears in my GitHub profile -->
+###### Last update of README.md file: 24 June 2024
