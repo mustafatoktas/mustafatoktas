@@ -7,12 +7,13 @@
 </div>
 
 <p align="center">
-  <a href="mailto:info@mustafatoktas.com"                target="_blank"> <img src="./Readme Resources/Social Media/Mail.png"       alt="Mail"       width="64" heigh="64"/> </a>
-  <a href="https://www.linkedin.com/in/mustafatoktas/"   target="_blank"> <img src="./Readme Resources/Social Media/LinkedIn.png"   alt="Linkedin"   width="64" heigh="64"/> </a>
-  <a href="https://www.youtube.com/@mustafatoktas"       target="_blank"> <img src="./Readme Resources/Social Media/YouTube.png"    alt="Youtube"    width="64" heigh="64"/> </a>
-  <a href="https://www.mustafatoktas.com"                target="_blank"> <img src="./Readme Resources/Social Media/My Website.png" alt="My Website" width="64" heigh="64"/> </a>
-  <a href="https://www.instagram.com/mustafatoktas00/"   target="_blank"> <img src="./Readme Resources/Social Media/Instagram.png"  alt="Instagram"  width="64" heigh="64"/> </a>
-  <a href="https://steamcommunity.com/id/mustafatoktas/" target="_blank"> <img src="./Readme Resources/Social Media/Steam.png"      alt="Steam"      width="64" heigh="64"/> </a>
+  <a href="mailto:info@mustafatoktas.com"                                 target="_blank"> <img src="./Readme Resources/Social Media/Mail.png"              alt="Mail"              width="64" heigh="64"/> </a>
+  <a href="https://www.linkedin.com/in/mustafatoktas/"                    target="_blank"> <img src="./Readme Resources/Social Media/LinkedIn.png"          alt="Linkedin"          width="64" heigh="64"/> </a>
+  <a href="https://www.youtube.com/@mustafatoktas"                        target="_blank"> <img src="./Readme Resources/Social Media/YouTube.png"           alt="Youtube"           width="64" heigh="64"/> </a>
+  <a href="https://play.google.com/store/apps/dev?id=6260246374653032875" target="_blank"> <img src="./Readme Resources/Social Media/Google Play Store.png" alt="Google Play Store" width="64" heigh="64"/> </a>
+  <a href="https://www.mustafatoktas.com"                                 target="_blank"> <img src="./Readme Resources/Social Media/My Website.png"        alt="My Website"        width="64" heigh="64"/> </a>
+  <a href="https://www.instagram.com/mustafatoktas00/"                    target="_blank"> <img src="./Readme Resources/Social Media/Instagram.png"         alt="Instagram"         width="64" heigh="64"/> </a>
+  <a href="https://steamcommunity.com/id/mustafatoktas/"                  target="_blank"> <img src="./Readme Resources/Social Media/Steam.png"             alt="Steam"             width="64" heigh="64"/> </a>
 </p>
 
 ![-----------------------------------------------------](./Readme%20Resources/Line.png)
@@ -154,4 +155,4 @@ Samsung PM981a 512 GB m.2 SSD
 
 <img src="./Readme Resources/Playing/Snake.svg" alt="Snake"/>
 
-###### Last update of README.md file: 24 June 2024
+###### Last update of README.md file: 25 June 2024
