@@ -26,7 +26,7 @@ name: Mustafa TOKTAŞ
 birth: 1999
 located_in: Kocaeli, Turkey
 current_job: Android & WEB Developer
-company: Toktasoft
+company: NULL
 technical_background:
   [
     "Freelance Software Developer  @Toktasoft             May 2020 - Jul 2024",
@@ -155,4 +155,4 @@ Samsung PM981a 512 GB m.2 SSD
 
 <img src="./Readme Resources/Playing/Snake.svg" alt="Snake"/>
 
-###### Last update of README.md file: 10 July 2024
+###### Last update of README.md file: 13 July 2024
