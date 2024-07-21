@@ -135,12 +135,14 @@ hobbies:
 
 ## My Official Software Trademark
 
-<img align="left" src="./Readme Resources/Toktasoft/Toktasoft.svg" alt="Logo of My Official Software Brand" width="400"/>
-<br> <br> <br> <br>
-The Toktasoft trademark was registered by the Turkish Patent and Trademark Office on January 25, 2023, under the
-Turkish Industrial Property Law Number 6769 to be protected for a period of ten years starting from October 1, 2022.
-<br> <br> 
-<img align="left" src="./Readme Resources/Toktasoft/Trademark Registration Certificate.png" alt="Trademark Registration Certificate" width="700"/>
+<p align="left">
+  <img src="./Readme Resources/Toktasoft/Toktasoft.svg" alt="Logo of My Official Software Brand" width="300"/>
+</p>
+
+The Toktasoft trademark was registered by the Turkish Patent and Trademark Office on 25 January 2023 under the
+Turkish Industrial Property Law Number 6769 to be protected for a period of ten years starting from 1 October 2022.
+
+<a href="https://drive.google.com/file/d/1A6JSfhrKN7yi3j8CiEX3qmEG3ZQd5O8c/view?usp=sharing" target="_blank">Trademark Registration Certificate</a>
 
 ![-----------------------------------------------------](./Readme%20Resources/Line.png)
 
@@ -167,4 +169,4 @@ Samsung PM981a 512 GB m.2 SSD
 
 <img src="./Readme Resources/Playing/Snake.svg" alt="Snake"/>
 
-###### Last update of README.md file: 13 July 2024
+###### Last update of README.md file: 21 July 2024
