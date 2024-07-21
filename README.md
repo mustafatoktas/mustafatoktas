@@ -133,11 +133,13 @@ hobbies:
 ![-----------------------------------------------------](./Readme%20Resources/Line.png)
 
 
-## My Official Software Brand
+## My Official Software Trademark
 
-<br>
 <img align="left" src="./Readme Resources/Toktasoft/Toktasoft.svg" alt="Logo of My Official Software Brand" width="400"/>
-<br> <br> <br> <br> <br>
+<br> <br> <br> <br>
+The Toktasoft trademark was registered by the Turkish Patent and Trademark Office on January 25, 2023, under the
+Turkish Industrial Property Law Number 6769 to be protected for a period of ten years starting from October 1, 2022.
+<br> <br> 
 <img align="left" src="./Readme Resources/Toktasoft/Trademark Registration Certificate.png" alt="Trademark Registration Certificate" width="700"/>
 
 ![-----------------------------------------------------](./Readme%20Resources/Line.png)
