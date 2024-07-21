@@ -133,6 +133,16 @@ hobbies:
 ![-----------------------------------------------------](./Readme%20Resources/Line.png)
 
 
+## My Official Software Brand
+
+<br>
+<img align="left" src="./Readme Resources/Toktasoft/Toktasoft.svg" alt="Logo of My Official Software Brand" width="400"/>
+<br> <br> <br> <br> <br>
+<img align="left" src="./Readme Resources/Toktasoft/Trademark Registration Certificate.png" alt="Trademark Registration Certificate" width="700"/>
+
+![-----------------------------------------------------](./Readme%20Resources/Line.png)
+
+
 ## My System Features
 
 <img align="right" src="./Readme Resources/Playing/Coder Boy.gif" alt="Coder Boy" width="450"/>
