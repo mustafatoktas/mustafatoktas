@@ -16,8 +16,8 @@
   <a href="https://steamcommunity.com/id/mustafatoktas/"                  target="_blank"> <img src="./Readme Resources/Social Media/Steam.png"             alt="Steam"             width="64" heigh="64"/> </a>
 </p>
 
-![-----------------------------------------------------](./Readme%20Resources/Line.png)
 
+![-----------------------------------------------------](./Readme%20Resources/Line.png)
 
 ## A Little Bit About Me and My Interests
 
@@ -59,8 +59,8 @@ hobbies:
   ]
 ```
 
-![-----------------------------------------------------](./Readme%20Resources/Line.png)
 
+![-----------------------------------------------------](./Readme%20Resources/Line.png)
 
 ## Language & Framework
 
@@ -112,8 +112,8 @@ hobbies:
   <a href="https://github.com"      target="_blank"> <img src="./Readme Resources/Tool and Other/Github.png"  alt="Github"  width="64" heigh="64"/> </a>
 </p>
 
-![-----------------------------------------------------](./Readme%20Resources/Line.png)
 
+![-----------------------------------------------------](./Readme%20Resources/Line.png)
 
 ## My Github Repository Naming
 
@@ -130,8 +130,8 @@ hobbies:
   - **D.UI** &nbsp;&nbsp; -> User Interface Work (non-functional)
 - **O** &nbsp;&nbsp; -> Other Projects (for ex. Arduino, Console Projects)
 
-![-----------------------------------------------------](./Readme%20Resources/Line.png)
 
+![-----------------------------------------------------](./Readme%20Resources/Line.png)
 
 ## My Official Software Trademark
 
@@ -144,8 +144,8 @@ Turkish Industrial Property Law Number 6769 to be protected for a period of ten 
 
 <a href="https://drive.google.com/file/d/1A6JSfhrKN7yi3j8CiEX3qmEG3ZQd5O8c/view?usp=sharing" target="_blank">Trademark Registration Certificate</a>
 
-![-----------------------------------------------------](./Readme%20Resources/Line.png)
 
+![-----------------------------------------------------](./Readme%20Resources/Line.png)
 
 ## My System Features
 
@@ -165,8 +165,9 @@ Samsung 970 Evo 1 TB m.2 SSD
 <br>
 Samsung PM981a 512 GB m.2 SSD
 
+
 ![-----------------------------------------------------](./Readme%20Resources/Line.png)
 
 <img src="./Readme Resources/Playing/Snake.svg" alt="Snake"/>
 
-###### Last update of README.md file: 21 July 2024
+###### Last update of README.md file: 27 July 2024
