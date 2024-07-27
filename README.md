@@ -136,7 +136,7 @@ hobbies:
 ## My Official Software Trademark
 
 <p align="left">
-  <img src="./Readme Resources/Toktasoft/Toktasoft.svg" alt="Logo of My Official Software Brand" width="300"/>
+  <img src="./Readme Resources/Toktasoft/Toktasoft.svg" alt="Logo of My Official Software Trademark" width="300"/>
 </p>
 
 The Toktasoft trademark was registered by the Turkish Patent and Trademark Office on 25 January 2023 under the
