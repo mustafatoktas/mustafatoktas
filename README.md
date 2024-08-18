@@ -29,14 +29,14 @@ current_job: Android & WEB Developer
 company: NULL
 technical_background:
   [
-    "Freelance Software Developer  @Toktasoft             May 2020 - Jul 2024",
-    "Software Developer            @Lavira Rocket         Oct 2022 - Jan 2023",
-    "Software Developer            @KOU ElectriCar        Oct 2021 - Sep 2022",
-    "Intern R&D Engineer           @Daiichi Electronics   Jul 2021 - Aug 2021",
+    "Freelance Software Developer  @Toktasoft             May 2020 - Jul 2024   4 years 3 months",
+    "Software Developer            @Lavira Rocket         Oct 2022 - Jan 2023   4 months",
+    "Software Developer            @KOU ElectriCar        Oct 2021 - Sep 2022   1 year",
+    "Intern R&D Engineer           @Daiichi Electronics   Jul 2021 - Aug 2021   2 months",
   ]
 education:
   [
-    "Electrical Engineering        @Kocaeli University    2018 - 2023",
+    "Electrical Engineering        @Kocaeli University    2018 - 2023           5 years",
   ]
 fields_of_interests:
   [
@@ -175,4 +175,4 @@ Samsung PM981a 512 GB m.2 SSD
 
 <img src="./Readme Resources/Playing/Snake.svg" alt="Snake"/>
 
-###### Last update of README.md file: 2 August 2024
+###### Last update of README.md file: 19 August 2024
