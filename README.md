@@ -117,69 +117,69 @@ hobbies:
 
 ## My Github Repository Naming
 
-<table>
+<table style="width:100%; border-collapse:collapse; font-family:Arial, sans-serif;">
   <thead>
     <tr>
-      <th style="text-align:left;"><strong>Prefix</strong></th>
-      <th style="text-align:left;"><strong>Category</strong></th>
-      <th style="text-align:left;"><strong>Description</strong></th>
+      <th style="text-align:left; padding:10px; border:1px solid #ddd;"><strong>Prefix</strong></th>
+      <th style="text-align:left; padding:10px; border:1px solid #ddd;"><strong>Category</strong></th>
+      <th style="text-align:left; padding:10px; border:1px solid #ddd;"><strong>Description</strong></th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><strong>A</strong></td>
-      <td><strong>Android Projects</strong></td>
-      <td></td>
+      <td style="padding:10px; border:1px solid #ddd;"><strong>A</strong></td>
+      <td style="padding:10px; border:1px solid #ddd;"><strong>Android Projects</strong></td>
+      <td style="padding:10px; border:1px solid #ddd;"></td>
     </tr>
     <tr>
-      <td>Just A</td>
-      <td style="padding-left:20px;">Functional Android Projects</td>
-      <td>Functional Android Projects</td>
+      <td style="padding:10px; border:1px solid #ddd;">Just A</td>
+      <td style="padding:10px 10px 10px 30px; border:1px solid #ddd;">Functional Android Projects</td>
+      <td style="padding:10px; border:1px solid #ddd;">Functional Android Projects</td>
     </tr>
     <tr>
-      <td>A.UI</td>
-      <td style="padding-left:20px;">User Interface Work</td>
-      <td>Non-functional Android UI work</td>
+      <td style="padding:10px; border:1px solid #ddd;">A.UI</td>
+      <td style="padding:10px 10px 10px 30px; border:1px solid #ddd;">User Interface Work</td>
+      <td style="padding:10px; border:1px solid #ddd;">Non-functional Android UI work</td>
     </tr>
     <tr>
-      <td><strong>W</strong></td>
-      <td><strong>Web Projects</strong></td>
-      <td></td>
+      <td style="padding:10px; border:1px solid #ddd;"><strong>W</strong></td>
+      <td style="padding:10px; border:1px solid #ddd;"><strong>Web Projects</strong></td>
+      <td style="padding:10px; border:1px solid #ddd;"></td>
     </tr>
     <tr>
-      <td>W.FS</td>
-      <td style="padding-left:20px;">Fullstack Web Projects</td>
-      <td>Fullstack Web Projects</td>
+      <td style="padding:10px; border:1px solid #ddd;">W.FS</td>
+      <td style="padding:10px 10px 10px 30px; border:1px solid #ddd;">Fullstack Web Projects</td>
+      <td style="padding:10px; border:1px solid #ddd;">Fullstack Web Projects</td>
     </tr>
     <tr>
-      <td>W.BE</td>
-      <td style="padding-left:20px;">Back-end Web Projects</td>
-      <td>Backend-specific Web Projects</td>
+      <td style="padding:10px; border:1px solid #ddd;">W.BE</td>
+      <td style="padding:10px 10px 10px 30px; border:1px solid #ddd;">Back-end Web Projects</td>
+      <td style="padding:10px; border:1px solid #ddd;">Backend-specific Web Projects</td>
     </tr>
     <tr>
-      <td>W.FE</td>
-      <td style="padding-left:20px;">Front-end Web Projects</td>
-      <td>Frontend-specific Web Projects</td>
+      <td style="padding:10px; border:1px solid #ddd;">W.FE</td>
+      <td style="padding:10px 10px 10px 30px; border:1px solid #ddd;">Front-end Web Projects</td>
+      <td style="padding:10px; border:1px solid #ddd;">Frontend-specific Web Projects</td>
     </tr>
     <tr>
-      <td><strong>D</strong></td>
-      <td><strong>Desktop Projects</strong></td>
-      <td></td>
+      <td style="padding:10px; border:1px solid #ddd;"><strong>D</strong></td>
+      <td style="padding:10px; border:1px solid #ddd;"><strong>Desktop Projects</strong></td>
+      <td style="padding:10px; border:1px solid #ddd;"></td>
     </tr>
     <tr>
-      <td>Just D</td>
-      <td style="padding-left:20px;">Functional Desktop Projects</td>
-      <td>Functional Desktop Projects</td>
+      <td style="padding:10px; border:1px solid #ddd;">Just D</td>
+      <td style="padding:10px 10px 10px 30px; border:1px solid #ddd;">Functional Desktop Projects</td>
+      <td style="padding:10px; border:1px solid #ddd;">Functional Desktop Projects</td>
     </tr>
     <tr>
-      <td>D.UI</td>
-      <td style="padding-left:20px;">User Interface Work</td>
-      <td>Non-functional Desktop UI work</td>
+      <td style="padding:10px; border:1px solid #ddd;">D.UI</td>
+      <td style="padding:10px 10px 10px 30px; border:1px solid #ddd;">User Interface Work</td>
+      <td style="padding:10px; border:1px solid #ddd;">Non-functional Desktop UI work</td>
     </tr>
     <tr>
-      <td><strong>O</strong></td>
-      <td><strong>Other Projects</strong></td>
-      <td>Arduino, Console, and other types</td>
+      <td style="padding:10px; border:1px solid #ddd;"><strong>O</strong></td>
+      <td style="padding:10px; border:1px solid #ddd;"><strong>Other Projects</strong></td>
+      <td style="padding:10px; border:1px solid #ddd;">Arduino, Console, and other types</td>
     </tr>
   </tbody>
 </table>
