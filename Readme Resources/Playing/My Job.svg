@@ -54,7 +54,7 @@
         x='50%' text-anchor='middle'
         letter-spacing='normal'>
         <textPath xlink:href='#path2'>
-            I&#039;m an Kotlin Lover
+            I&#039;m a Kotlin Lover
         </textPath>
     </text>
 </svg>

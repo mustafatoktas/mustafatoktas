@@ -117,18 +117,72 @@ hobbies:
 
 ## My Github Repository Naming
 
-- **A** &nbsp;&nbsp; -> Android Projects
-  - **Just A** &nbsp;&nbsp; -> Functional Android Projects
-  - **A.UI** &nbsp;&nbsp; -> User Interface Work (non-functional)
-
-- **W** &nbsp;&nbsp; -> WEB Projects 
-  - **W.FS** &nbsp;&nbsp; -> Fullstack Web Projects
-  - **W.BE** &nbsp;&nbsp; -> Back-end Web Projects
-  - **W.FE** &nbsp;&nbsp; -> Front-end Web Projects
-- **D** &nbsp;&nbsp; -> Desktop Projects
-  - **Just D** &nbsp;&nbsp; -> Functional Desktop Projects
-  - **D.UI** &nbsp;&nbsp; -> User Interface Work (non-functional)
-- **O** &nbsp;&nbsp; -> Other Projects (for ex. Arduino, Console Projects)
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left;"><strong>Prefix</strong></th>
+      <th style="text-align:left;"><strong>Category</strong></th>
+      <th style="text-align:left;"><strong>Description</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>A</strong></td>
+      <td><strong>Android Projects</strong></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Just A</td>
+      <td style="padding-left:20px;">Functional Android Projects</td>
+      <td>Functional Android Projects</td>
+    </tr>
+    <tr>
+      <td>A.UI</td>
+      <td style="padding-left:20px;">User Interface Work</td>
+      <td>Non-functional Android UI work</td>
+    </tr>
+    <tr>
+      <td><strong>W</strong></td>
+      <td><strong>Web Projects</strong></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>W.FS</td>
+      <td style="padding-left:20px;">Fullstack Web Projects</td>
+      <td>Fullstack Web Projects</td>
+    </tr>
+    <tr>
+      <td>W.BE</td>
+      <td style="padding-left:20px;">Back-end Web Projects</td>
+      <td>Backend-specific Web Projects</td>
+    </tr>
+    <tr>
+      <td>W.FE</td>
+      <td style="padding-left:20px;">Front-end Web Projects</td>
+      <td>Frontend-specific Web Projects</td>
+    </tr>
+    <tr>
+      <td><strong>D</strong></td>
+      <td><strong>Desktop Projects</strong></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Just D</td>
+      <td style="padding-left:20px;">Functional Desktop Projects</td>
+      <td>Functional Desktop Projects</td>
+    </tr>
+    <tr>
+      <td>D.UI</td>
+      <td style="padding-left:20px;">User Interface Work</td>
+      <td>Non-functional Desktop UI work</td>
+    </tr>
+    <tr>
+      <td><strong>O</strong></td>
+      <td><strong>Other Projects</strong></td>
+      <td>Arduino, Console, and other types</td>
+    </tr>
+  </tbody>
+</table>
 
 
 ![-----------------------------------------------------](./Readme%20Resources/Line.png)
