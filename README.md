@@ -143,21 +143,90 @@ hobbies:
 
 ## My Repositories
 
-| Prefix   | Repository Name                                                                         | Description                                                                                    |
-| -------- | --------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
-| **A**    | [English Dictionary](https://github.com/mustafatoktas/A_EnglishDictionary)              | An application that provides the meanings and pronunciation details of English words           |
-|          | [Obje Tanıma](https://github.com/mustafatoktas/A_ObjeTanima)                            | An application that performs real-time object recognition                                      |
-|          | [Installed Applications](https://github.com/mustafatoktas/A_InstalledApplications)      | An application that lists all installed applications on the phone                              |
-| **A.UI** | [Wallet App](https://github.com/mustafatoktas/A.UI_WalletApp)                           | A wallet app interface design that allows users to track their payments                        |
-|          | [Car Rentals](https://github.com/mustafatoktas/A.UI_CarRentals)                         | An interface design for a car rental app where users can book rental services                  |
-| **W.BE** | [Repo Visitor Counter API](https://github.com/mustafatoktas/W.BE_RepoVisitorCounterAPI) | An API that provides the visit count of a specific repository in PNG format                    |
-|          | [Burç API](https://github.com/mustafatoktas/W.BE_BurcAPI)                               | An API that provides horoscope readings in JSON format                                         |
-|          | [Yemek Tarifleri API](https://github.com/mustafatoktas/W.BE_YemekTarifleriAPI)          | An API that manages recipes (add, update, delete) and provides results in JSON format          |
-|          | [Namaz Vakitleri API](https://github.com/mustafatoktas/W.BE_NamazVakitleriAPI)          | An API that provides prayer times in JSON format                                               |
-| **D**    | [Gif Corner Rounder](https://github.com/mustafatoktas/D_GifCornerRounder)               | An application that rounds the corners of GIF files                                            |
-|          | [Json Comparer & Beautifier](https://github.com/mustafatoktas/D_JsonComparerBeautifier) | An application that compares and beautifies JSON data                                          |
-| **O**    | [Dosya Taşıma](https://github.com/mustafatoktas/O_DosyaTasima)                          | An application that moves files from a source folder and all its subfolders to a target folder |
-|          | [Makalelerim](https://github.com/mustafatoktas/O_Makalelerim)                           | A collection of articles on software development and technology                                |
+<table border="1" cellpadding="10" cellspacing="0">
+    <tr>
+        <th>Prefix</th>
+        <th>Repository Name</th>
+        <th>Description</th>
+    </tr>
+    <tr>
+        <td colspan="3" style="text-align:left; font-weight:bold;">Android Projects</td>
+    </tr>
+    <tr>
+        <td rowspan="3">A</td>
+        <td><a href="https://github.com/mustafatoktas/A_EnglishDictionary">English Dictionary</a></td>
+        <td>An application that provides the meanings and pronunciation details of English words</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/mustafatoktas/A_ObjeTanima">Obje Tanıma</a></td>
+        <td>An application that performs real-time object recognition</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/mustafatoktas/A_InstalledApplications">Installed Applications</a></td>
+        <td>An application that lists all installed applications on the phone</td>
+    </tr>
+    <tr>
+        <td rowspan="2">A.UI</td>
+        <td><a href="https://github.com/mustafatoktas/A.UI_WalletApp">Wallet App</a></td>
+        <td>A wallet app interface design that allows users to track their payments</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/mustafatoktas/A.UI_CarRentals">Car Rentals</a></td>
+        <td>An interface design for a car rental app where users can book rental services</td>
+    </tr>
+    <tr>
+        <td colspan="3" style="text-align:left; font-weight:bold;">WEB Projects</td>
+    </tr>
+    <tr>
+        <td rowspan="4">W.BE</td>
+        <td><a href="https://github.com/mustafatoktas/W.BE_RepoVisitorCounterAPI">Repo Visitor Counter API</a></td>
+        <td>An API that provides the visit count of a specific repository in PNG format</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/mustafatoktas/W.BE_BurcAPI">Burç API</a></td>
+        <td>An API that provides horoscope readings in JSON format</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/mustafatoktas/W.BE_YemekTarifleriAPI">Yemek Tarifleri API</a></td>
+        <td>An API that manages recipes (add, update, delete) and provides results in JSON format</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/mustafatoktas/W.BE_NamazVakitleriAPI">Namaz Vakitleri API</a></td>
+        <td>An API that provides prayer times in JSON format</td>
+    </tr>
+    <tr>
+        <td colspan="3" style="text-align:left; font-weight:bold;">Desktop Projects</td>
+    </tr>
+    <tr>
+        <td rowspan="2">D</td>
+        <td><a href="https://github.com/mustafatoktas/D_GifCornerRounder">Gif Corner Rounder</a></td>
+        <td>An application that rounds the corners of GIF files</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/mustafatoktas/D_JsonComparerBeautifier">Json Comparer & Beautifier</a></td>
+        <td>An application that compares and beautifies JSON data</td>
+    </tr>
+    <tr>
+        <td colspan="3" style="text-align:left; font-weight:bold;">Kotlin Multi-Platform Projects</td>
+    </tr>
+    <tr>
+        <td rowspan="1">KMP</td>
+        <td><a href="">Empty</a></td>
+        <td>Empty</td>
+    </tr>
+    <tr>
+        <td colspan="3" style="text-align:left; font-weight:bold;">Other Projects</td>
+    </tr>
+    <tr>
+        <td rowspan="2">O</td>
+        <td><a href="https://github.com/mustafatoktas/O_DosyaTasima">Dosya Taşıma</a></td>
+        <td>An application that moves files from a source folder and all its subfolders to a target folder</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/mustafatoktas/O_Makalelerim">Makalelerim</a></td>
+        <td>A collection of articles on software development and technology</td>
+    </tr>
+</table>
 
 
 ![-----------------------------------------------------](./Readme%20Resources/Line.png)
