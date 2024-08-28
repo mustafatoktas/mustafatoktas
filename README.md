@@ -143,7 +143,7 @@ hobbies:
 
 ## My Repositories
 
-<table border="1" cellpadding="10" cellspacing="0">
+<table cellpadding="10" cellspacing="0">
     <tr>
         <th>Prefix</th>
         <th>Repository Name</th>
