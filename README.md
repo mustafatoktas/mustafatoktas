@@ -50,6 +50,7 @@ currently_learning:
     "Jetpack Compose", 
     "Kobweb",
     "Ktor",
+    "KMP",
   ]
 hobbies:
   [
@@ -117,72 +118,46 @@ hobbies:
 
 ## My Github Repository Naming
 
-<table style="width:100%; border-collapse:collapse; font-family:Arial, sans-serif;">
-  <thead>
-    <tr>
-      <th style="text-align:left; padding:10px; border:1px solid #ddd;"><strong>Prefix</strong></th>
-      <th style="text-align:left; padding:10px; border:1px solid #ddd;"><strong>Category</strong></th>
-      <th style="text-align:left; padding:10px; border:1px solid #ddd;"><strong>Description</strong></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="padding:10px; border:1px solid #ddd;"><strong>A</strong></td>
-      <td style="padding:10px; border:1px solid #ddd;"><strong>Android Projects</strong></td>
-      <td style="padding:10px; border:1px solid #ddd;"></td>
-    </tr>
-    <tr>
-      <td style="padding:10px; border:1px solid #ddd;">Just A</td>
-      <td style="padding:10px 10px 10px 30px; border:1px solid #ddd;">Functional Android Projects</td>
-      <td style="padding:10px; border:1px solid #ddd;">Functional Android Projects</td>
-    </tr>
-    <tr>
-      <td style="padding:10px; border:1px solid #ddd;">A.UI</td>
-      <td style="padding:10px 10px 10px 30px; border:1px solid #ddd;">User Interface Work</td>
-      <td style="padding:10px; border:1px solid #ddd;">Non-functional Android UI work</td>
-    </tr>
-    <tr>
-      <td style="padding:10px; border:1px solid #ddd;"><strong>W</strong></td>
-      <td style="padding:10px; border:1px solid #ddd;"><strong>Web Projects</strong></td>
-      <td style="padding:10px; border:1px solid #ddd;"></td>
-    </tr>
-    <tr>
-      <td style="padding:10px; border:1px solid #ddd;">W.FS</td>
-      <td style="padding:10px 10px 10px 30px; border:1px solid #ddd;">Fullstack Web Projects</td>
-      <td style="padding:10px; border:1px solid #ddd;">Fullstack Web Projects</td>
-    </tr>
-    <tr>
-      <td style="padding:10px; border:1px solid #ddd;">W.BE</td>
-      <td style="padding:10px 10px 10px 30px; border:1px solid #ddd;">Back-end Web Projects</td>
-      <td style="padding:10px; border:1px solid #ddd;">Backend-specific Web Projects</td>
-    </tr>
-    <tr>
-      <td style="padding:10px; border:1px solid #ddd;">W.FE</td>
-      <td style="padding:10px 10px 10px 30px; border:1px solid #ddd;">Front-end Web Projects</td>
-      <td style="padding:10px; border:1px solid #ddd;">Frontend-specific Web Projects</td>
-    </tr>
-    <tr>
-      <td style="padding:10px; border:1px solid #ddd;"><strong>D</strong></td>
-      <td style="padding:10px; border:1px solid #ddd;"><strong>Desktop Projects</strong></td>
-      <td style="padding:10px; border:1px solid #ddd;"></td>
-    </tr>
-    <tr>
-      <td style="padding:10px; border:1px solid #ddd;">Just D</td>
-      <td style="padding:10px 10px 10px 30px; border:1px solid #ddd;">Functional Desktop Projects</td>
-      <td style="padding:10px; border:1px solid #ddd;">Functional Desktop Projects</td>
-    </tr>
-    <tr>
-      <td style="padding:10px; border:1px solid #ddd;">D.UI</td>
-      <td style="padding:10px 10px 10px 30px; border:1px solid #ddd;">User Interface Work</td>
-      <td style="padding:10px; border:1px solid #ddd;">Non-functional Desktop UI work</td>
-    </tr>
-    <tr>
-      <td style="padding:10px; border:1px solid #ddd;"><strong>O</strong></td>
-      <td style="padding:10px; border:1px solid #ddd;"><strong>Other Projects</strong></td>
-      <td style="padding:10px; border:1px solid #ddd;">Arduino, Console, and other types</td>
-    </tr>
-  </tbody>
-</table>
+- **A** &nbsp;&nbsp; -> Android Projects
+  - **Just A** &nbsp;&nbsp; -> Functional Android Mobil Projects
+  - **A.W** &nbsp;&nbsp; -> Functional Android Wear Projects
+  - **A.UI** &nbsp;&nbsp; -> Android Mobil User Interface Work (non-functional)
+
+- **W** &nbsp;&nbsp; -> WEB Projects
+  - **W.FS** &nbsp;&nbsp; -> Fullstack Web Projects
+  - **W.BE** &nbsp;&nbsp; -> Back-end Web Projects
+  - **W.FE** &nbsp;&nbsp; -> Front-end Web Projects
+
+- **D** &nbsp;&nbsp; -> Desktop Projects
+  - **Just D** &nbsp;&nbsp; -> Functional Desktop Projects
+  - **D.UI** &nbsp;&nbsp; -> User Interface Work (non-functional)
+
+- **KMP** &nbsp;&nbsp; -> Kotlin Multi-Platform Projects
+  - **Just KMP** &nbsp;&nbsp; -> Functional KMP Projects
+  - **KMP.UI** &nbsp;&nbsp; -> KMP User Interface Work (non-functional)
+  
+- **O** &nbsp;&nbsp; -> Other Projects (for ex. Arduino, Console Projects)
+
+
+![-----------------------------------------------------](./Readme%20Resources/Line.png)
+
+## My Repositories
+
+| Prefix   | Repository Name                                                                         | Description                                                                                    |
+| -------- | --------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| **A**    | [English Dictionary](https://github.com/mustafatoktas/A_EnglishDictionary)              | An application that provides the meanings and pronunciation details of English words           |
+|          | [Obje Tanıma](https://github.com/mustafatoktas/A_ObjeTanima)                            | An application that performs real-time object recognition                                      |
+|          | [Installed Applications](https://github.com/mustafatoktas/A_InstalledApplications)      | An application that lists all installed applications on the phone                              |
+| **A.UI** | [Wallet App](https://github.com/mustafatoktas/A.UI_WalletApp)                           | A wallet app interface design that allows users to track their payments                        |
+|          | [Car Rentals](https://github.com/mustafatoktas/A.UI_CarRentals)                         | An interface design for a car rental app where users can book rental services                  |
+| **W.BE** | [Repo Visitor Counter API](https://github.com/mustafatoktas/W.BE_RepoVisitorCounterAPI) | An API that provides the visit count of a specific repository in PNG format                    |
+|          | [Burç API](https://github.com/mustafatoktas/W.BE_BurcAPI)                               | An API that provides horoscope readings in JSON format                                         |
+|          | [Yemek Tarifleri API](https://github.com/mustafatoktas/W.BE_YemekTarifleriAPI)          | An API that manages recipes (add, update, delete) and provides results in JSON format          |
+|          | [Namaz Vakitleri API](https://github.com/mustafatoktas/W.BE_NamazVakitleriAPI)          | An API that provides prayer times in JSON format                                               |
+| **D**    | [Gif Corner Rounder](https://github.com/mustafatoktas/D_GifCornerRounder)               | An application that rounds the corners of GIF files                                            |
+|          | [Json Comparer & Beautifier](https://github.com/mustafatoktas/D_JsonComparerBeautifier) | An application that compares and beautifies JSON data                                          |
+| **O**    | [Dosya Taşıma](https://github.com/mustafatoktas/O_DosyaTasima)                          | An application that moves files from a source folder and all its subfolders to a target folder |
+|          | [Makalelerim](https://github.com/mustafatoktas/O_Makalelerim)                           | A collection of articles on software development and technology                                |
 
 
 ![-----------------------------------------------------](./Readme%20Resources/Line.png)
@@ -196,7 +171,7 @@ hobbies:
 The Toktasoft trademark was registered by the Turkish Patent and Trademark Office on 25 January 2023 under the
 Turkish Industrial Property Law Number 6769 to be protected for a period of ten years starting from 1 October 2022.
 
-<a href="https://drive.google.com/file/d/1A6JSfhrKN7yi3j8CiEX3qmEG3ZQd5O8c/view?usp=sharing" target="_blank">Trademark Registration Certificate</a>
+<a href="https://drive.google.com/file/d/1A6JSfhrKN7yi3j8CiEX3qmEG3ZQd5O8c/view?usp=sharing" target="_blank">📃 Trademark Registration Certificate</a>
 
 
 ![-----------------------------------------------------](./Readme%20Resources/Line.png)
@@ -229,4 +204,4 @@ Samsung PM981a 512 GB m.2 SSD
 
 <img src="./Readme Resources/Playing/Snake.svg" alt="Snake"/>
 
-###### Last update of README.md file: 25 August 2024
+###### Last update of README.md file: 28 August 2024
