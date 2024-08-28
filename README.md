@@ -153,7 +153,7 @@ hobbies:
         <td colspan="3" style="text-align:left; font-weight:bold;"><strong>Android Projects</strong></td>
     </tr>
     <tr>
-        <td rowspan="3" style="text-align:center;">A</td>
+        <td rowspan="3" style="text-align:center;" align="center">A</td>
         <td><a href="https://github.com/mustafatoktas/A_EnglishDictionary">English Dictionary</a></td>
         <td>An application that provides the meanings and pronunciation details of English words</td>
     </tr>
