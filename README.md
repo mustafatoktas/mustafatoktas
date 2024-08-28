@@ -145,15 +145,15 @@ hobbies:
 
 <table cellpadding="10" cellspacing="0">
     <tr>
-        <th>Prefix</th>
-        <th>Repository Name</th>
-        <th>Description</th>
+        <th style="text-align:left;">Prefix</th>
+        <th style="text-align:left;">Repository Name</th>
+        <th style="text-align:left;">Description</th>
     </tr>
     <tr>
         <td colspan="3" style="text-align:left; font-weight:bold;"><strong>Android Projects</strong></td>
     </tr>
     <tr>
-        <td rowspan="3">A</td>
+        <td rowspan="3" style="text-align:center;">A</td>
         <td><a href="https://github.com/mustafatoktas/A_EnglishDictionary">English Dictionary</a></td>
         <td>An application that provides the meanings and pronunciation details of English words</td>
     </tr>
@@ -166,7 +166,7 @@ hobbies:
         <td>An application that lists all installed applications on the phone</td>
     </tr>
     <tr>
-        <td rowspan="2">A.UI</td>
+        <td rowspan="2" style="text-align:center;">A.UI</td>
         <td><a href="https://github.com/mustafatoktas/A.UI_WalletApp">Wallet App</a></td>
         <td>A wallet app interface design that allows users to track their payments</td>
     </tr>
@@ -178,7 +178,7 @@ hobbies:
         <td colspan="3" style="text-align:left; font-weight:bold;"><strong>WEB Projects</strong></td>
     </tr>
     <tr>
-        <td rowspan="4">W.BE</td>
+        <td rowspan="4" style="text-align:center;">W.BE</td>
         <td><a href="https://github.com/mustafatoktas/W.BE_RepoVisitorCounterAPI">Repo Visitor Counter API</a></td>
         <td>An API that provides the visit count of a specific repository in PNG format</td>
     </tr>
@@ -198,7 +198,7 @@ hobbies:
         <td colspan="3" style="text-align:left; font-weight:bold;"><strong>Desktop Projects</strong></td>
     </tr>
     <tr>
-        <td rowspan="2">D</td>
+        <td rowspan="2" style="text-align:center;">D</td>
         <td><a href="https://github.com/mustafatoktas/D_GifCornerRounder">Gif Corner Rounder</a></td>
         <td>An application that rounds the corners of GIF files</td>
     </tr>
@@ -210,7 +210,7 @@ hobbies:
         <td colspan="3" style="text-align:left; font-weight:bold;"><strong>Kotlin Multi-Platform Projects</strong></td>
     </tr>
     <tr>
-        <td rowspan="1">KMP</td>
+        <td rowspan="1" style="text-align:center;">KMP</td>
         <td><a href="">Empty</a></td>
         <td>Empty</td>
     </tr>
@@ -218,7 +218,7 @@ hobbies:
         <td colspan="3" style="text-align:left; font-weight:bold;"><strong>Other Projects</strong></td>
     </tr>
     <tr>
-        <td rowspan="2">O</td>
+        <td rowspan="2" style="text-align:center;">O</td>
         <td><a href="https://github.com/mustafatoktas/O_DosyaTasima">Dosya Taşıma</a></td>
         <td>An application that moves files from a source folder and all its subfolders to a target folder</td>
     </tr>
