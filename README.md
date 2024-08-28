@@ -120,8 +120,8 @@ hobbies:
 
 - **A** &nbsp;&nbsp; -> Android Projects
   - **Just A** &nbsp;&nbsp; -> Functional Android Mobil Projects
-  - **A.W** &nbsp;&nbsp; -> Functional Android Wear Projects
   - **A.UI** &nbsp;&nbsp; -> Android Mobil User Interface Work (non-functional)
+  - **A.W** &nbsp;&nbsp; -> Functional Android Wear Projects
 
 - **W** &nbsp;&nbsp; -> WEB Projects
   - **W.FS** &nbsp;&nbsp; -> Fullstack Web Projects
@@ -132,7 +132,7 @@ hobbies:
   - **Just D** &nbsp;&nbsp; -> Functional Desktop Projects
   - **D.UI** &nbsp;&nbsp; -> User Interface Work (non-functional)
 
-- **KMP** &nbsp;&nbsp; -> Kotlin Multi-Platform Projects
+- **KMP** &nbsp; -> Kotlin Multi-Platform Projects
   - **Just KMP** &nbsp;&nbsp; -> Functional KMP Projects
   - **KMP.UI** &nbsp;&nbsp; -> KMP User Interface Work (non-functional)
   
@@ -240,7 +240,7 @@ hobbies:
 The Toktasoft trademark was registered by the Turkish Patent and Trademark Office on 25 January 2023 under the
 Turkish Industrial Property Law Number 6769 to be protected for a period of ten years starting from 1 October 2022.
 
-<a href="https://drive.google.com/file/d/1A6JSfhrKN7yi3j8CiEX3qmEG3ZQd5O8c/view?usp=sharing" target="_blank">📃 Trademark Registration Certificate</a>
+<a href="https://drive.google.com/file/d/1A6JSfhrKN7yi3j8CiEX3qmEG3ZQd5O8c/view?usp=sharing" target="_blank">Trademark Registration Certificate</a>
 
 
 ![-----------------------------------------------------](./Readme%20Resources/Line.png)
@@ -266,7 +266,7 @@ Samsung PM981a 512 GB m.2 SSD
 
 ![-----------------------------------------------------](./Readme%20Resources/Line.png)
 
-<a href="https://github.com/mustafatoktas/W.BE_RepoVisitorCounterAPI" target="_blank"> <img src="https://toktasoft.com/api/github2/repo-visitor-counter.php?repo=zkwnqscdgx6u9ft&show_repo_name=1&show_date=1&show_brand=0" alt="Repo Visitor Counter"/> </a>
+<a href="https://github.com/mustafatoktas/W.BE_RepoVisitorCounterAPI" target="_blank"> <img src="https://toktasoft.com/api/github2/repo-visitor-counter.php?repozkwnqscdgx6u9ft=&show_repo_name=1&show_date=1&show_brand=0" alt="Repo Visitor Counter"/> </a>
 
 
 ![-----------------------------------------------------](./Readme%20Resources/Line.png)
