@@ -150,7 +150,7 @@ hobbies:
         <th>Description</th>
     </tr>
     <tr>
-        <td colspan="3" style="text-align:left; font-weight:bold;">Android Projects</td>
+        <td colspan="3" style="text-align:left; font-weight:bold;"><strong>Android Projects</strong></td>
     </tr>
     <tr>
         <td rowspan="3">A</td>
@@ -175,7 +175,7 @@ hobbies:
         <td>An interface design for a car rental app where users can book rental services</td>
     </tr>
     <tr>
-        <td colspan="3" style="text-align:left; font-weight:bold;">WEB Projects</td>
+        <td colspan="3" style="text-align:left; font-weight:bold;"><strong>WEB Projects</strong></td>
     </tr>
     <tr>
         <td rowspan="4">W.BE</td>
@@ -195,7 +195,7 @@ hobbies:
         <td>An API that provides prayer times in JSON format</td>
     </tr>
     <tr>
-        <td colspan="3" style="text-align:left; font-weight:bold;">Desktop Projects</td>
+        <td colspan="3" style="text-align:left; font-weight:bold;"><strong>Desktop Projects</strong></td>
     </tr>
     <tr>
         <td rowspan="2">D</td>
@@ -207,7 +207,7 @@ hobbies:
         <td>An application that compares and beautifies JSON data</td>
     </tr>
     <tr>
-        <td colspan="3" style="text-align:left; font-weight:bold;">Kotlin Multi-Platform Projects</td>
+        <td colspan="3" style="text-align:left; font-weight:bold;"><strong>Kotlin Multi-Platform Projects</strong></td>
     </tr>
     <tr>
         <td rowspan="1">KMP</td>
@@ -215,7 +215,7 @@ hobbies:
         <td>Empty</td>
     </tr>
     <tr>
-        <td colspan="3" style="text-align:left; font-weight:bold;">Other Projects</td>
+        <td colspan="3" style="text-align:left; font-weight:bold;"><strong>Other Projects</strong></td>
     </tr>
     <tr>
         <td rowspan="2">O</td>
