@@ -143,7 +143,7 @@ hobbies:
 
 ## My Repositories
 
-<table cellpadding="10" cellspacing="0">
+<table>
     <tr>
         <th align="left">Prefix</th>
         <th align="left">Repository Name</th>
@@ -273,4 +273,4 @@ Samsung PM981a 512 GB m.2 SSD
 
 <img src="./Readme Resources/Playing/Snake.svg" alt="Snake"/>
 
-###### Last update of README.md file: 28 August 2024
+###### Last update of README.md file: 29 August 2024
