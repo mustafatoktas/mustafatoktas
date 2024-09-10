@@ -1,3 +1,5 @@
+<a name="readme-top"></a>
+
 <img src="./Readme Resources/Banner.png" alt="Banner"/>
 
 <h1 align="center">Hey There <img src="./Readme Resources/Playing/Waving Hand.gif" alt="Waving Hand" width="40"/> I'm Mustafa</h1>
@@ -37,6 +39,11 @@ technical_background:
 education:
   [
     "Electrical Engineering        @Kocaeli University    2018 - 2023           5 years",
+  ]
+languages:
+  [
+    "Turkish                       Native",
+    "English                       B1",
   ]
 fields_of_interests:
   [
@@ -153,7 +160,7 @@ hobbies:
         <td colspan="3" align="left"><strong>Android Projects</strong></td>
     </tr>
     <tr>
-        <td rowspan="3" align="center">A</td>
+        <td rowspan="4" align="center">A</td>
         <td><a href="https://github.com/mustafatoktas/A_EnglishDictionary">English Dictionary</a></td>
         <td>An application that provides the meanings and pronunciation details of English words</td>
     </tr>
@@ -164,6 +171,10 @@ hobbies:
     <tr>
         <td><a href="https://github.com/mustafatoktas/A_InstalledApplications">Installed Applications</a></td>
         <td>An application that lists all installed applications on the phone</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/mustafatoktas/A_TakeNote">Take Note</a></td>
+        <td>An application that allows users to take, edit and organize notes locally on their device</td>
     </tr>
     <tr>
         <td rowspan="2" align="center">A.UI</td>
@@ -256,7 +267,7 @@ Intel Comet Lake Core i7-10875H
 Nvidia GeForce RTX 2070 Super
 
 #### **RAM**
-Corsair Vengeance 32 GB (2×16 GB) DDR4 3000 MHz
+Corsair Vengeance 32 GB (2×16 GB)
 
 #### **SSD**
 Samsung 970 Evo 1 TB m.2 SSD
@@ -266,11 +277,15 @@ Samsung PM981a 512 GB m.2 SSD
 
 ![-----------------------------------------------------](./Readme%20Resources/Line.png)
 
-<a href="https://github.com/mustafatoktas/W.BE_RepoVisitorCounterAPI" target="_blank"> <img src="https://toktasoft.com/api/github2/repo-visitor-counter.php?repo=zkwnqscdgx6u9ft&show_repo_name=1&show_date=1&show_brand=0" alt="Repo Visitor Counter"/> </a>
-
+<a href="https://github.com/mustafatoktas/W.BE_RepoVisitorCounterAPI" target="_blank"> <img src="https://toktasoft.com/api/github2/repo-visitor-counter.php?repo=&show_repo_name=1&show_date=1&show_brand=0" alt="Repo Visitor Counter"/> </a>
+zkwnqscdgx6u9ft
 
 ![-----------------------------------------------------](./Readme%20Resources/Line.png)
 
 <img src="./Readme Resources/Playing/Snake.svg" alt="Snake"/>
 
-###### Last update of README.md file: 29 August 2024
+###### Last update of README.md file: 10 September 2024
+
+<p align="center">
+  <a href="#readme-top"> <img src="./Readme Resources/Back to Top.png" alt="Back to Top" height="64"/> </a>
+</p>
