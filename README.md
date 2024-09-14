@@ -1,6 +1,6 @@
-<a name="readme-top"></a>
-
-<img src="./Readme Resources/Banner.png" alt="Banner"/>
+<a name="readme-top">
+  <img src="./Readme Resources/Banner.png" alt="Banner"/>
+</a>
 
 <h1 align="center">Hey There <img src="./Readme Resources/Playing/Waving Hand.gif" alt="Waving Hand" width="40"/> I'm Mustafa</h1>
 
