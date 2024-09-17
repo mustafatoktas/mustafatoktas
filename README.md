@@ -1,8 +1,8 @@
-<a name="readme-top">
-  <img src="./Readme Resources/Banner.png" alt="Banner"/>
-</a>
+<img src="./Readme Resources/Banner.png" alt="Banner"/>
 
-<h1 align="center">Hey There <img src="./Readme Resources/Playing/Waving Hand.gif" alt="Waving Hand" width="40"/> I'm Mustafa</h1>
+<h1 align="center">
+Hey There <img src="./Readme Resources/Playing/Waving Hand.gif" alt="Waving Hand" width="40"/> I'm Mustafa<a name="readme-top"></a>
+</h1>
 
 <div align="center">
   <img src="./Readme Resources/Playing/My Job.svg" alt="Headline"/>
@@ -289,7 +289,7 @@ Samsung PM981a 512 GB m.2 SSD
 
 <img src="./Readme Resources/Playing/Snake.svg" alt="Snake"/>
 
-###### Last update of README.md file: 10 September 2024
+###### Last update of README.md file: 17 September 2024
 
 <p align="center">
   <a href="#readme-top"> <img src="./Readme Resources/Back to Top.png" alt="Back to Top" height="64"/> </a>
