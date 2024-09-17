@@ -161,6 +161,14 @@ hobbies:
     </tr>
     <tr>
         <td rowspan="4" align="center">A</td>
+        <td><a href="https://github.com/mustafatoktas/A_TakeNote">Take Note</a></td>
+        <td>An application that allows users to take, edit and organize notes locally on their device</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/mustafatoktas/A_InstalledApplications">Installed Applications</a></td>
+        <td>An application that lists all installed applications on the phone</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/mustafatoktas/A_EnglishDictionary">English Dictionary</a></td>
         <td>An application that provides the meanings and pronunciation details of English words</td>
     </tr>
@@ -169,21 +177,17 @@ hobbies:
         <td>An application that performs real-time object recognition</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/mustafatoktas/A_InstalledApplications">Installed Applications</a></td>
-        <td>An application that lists all installed applications on the phone</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/mustafatoktas/A_TakeNote">Take Note</a></td>
-        <td>An application that allows users to take, edit and organize notes locally on their device</td>
-    </tr>
-    <tr>
-        <td rowspan="2" align="center">A.UI</td>
-        <td><a href="https://github.com/mustafatoktas/A.UI_WalletApp">Wallet App</a></td>
-        <td>A wallet app interface design that allows users to track their payments</td>
+        <td rowspan="3" align="center">A.UI</td>
+        <td><a href="https://github.com/mustafatoktas/A.UI_Weather">Weather</a></td>
+        <td>An interface design that provides users with real-time weather updates and forecasts</td>
     </tr>
     <tr>
         <td><a href="https://github.com/mustafatoktas/A.UI_CarRentals">Car Rentals</a></td>
         <td>An interface design for a car rental app where users can book rental services</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/mustafatoktas/A.UI_WalletApp">Wallet App</a></td>
+        <td>A wallet app interface design that allows users to track their payments</td>
     </tr>
     <tr>
         <td colspan="3" align="left"><strong>WEB Projects</strong></td>
