@@ -38,7 +38,7 @@ technical_background:
   ]
 education:
   [
-    "Electrical Engineering        @Kocaeli University    2018 - 2023           5 years",
+    "Electrical Engineering        @Kocaeli University",
   ]
 languages:
   [
@@ -289,7 +289,7 @@ Samsung PM981a 512 GB m.2 SSD
 
 <img src="./Readme Resources/Playing/Snake.svg" alt="Snake"/>
 
-###### Last update of README.md file: 17 September 2024
+###### Last update of README.md file: 20 October 2024
 
 <p align="center">
   <a href="#readme-top"> <img src="./Readme Resources/Back to Top.png" alt="Back to Top" height="64"/> </a>
