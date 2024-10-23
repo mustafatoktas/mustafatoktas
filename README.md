@@ -177,7 +177,11 @@ hobbies:
         <td>An application that performs real-time object recognition</td>
     </tr>
     <tr>
-        <td rowspan="3" align="center">A.UI</td>
+        <td rowspan="4" align="center">A.UI</td>
+        <td><a href="https://github.com/mustafatoktas/A.UI_Login">Login</a></td>
+        <td>An interface design for login and sign-up pages</td>
+    </tr>
+        <tr>
         <td><a href="https://github.com/mustafatoktas/A.UI_Weather">Weather</a></td>
         <td>An interface design that provides users with real-time weather updates and forecasts</td>
     </tr>
@@ -271,7 +275,7 @@ Intel Comet Lake Core i7-10875H
 Nvidia GeForce RTX 2070 Super
 
 #### **RAM**
-Corsair Vengeance 32 GB (2×16 GB)
+Corsair Vengeance 32 GB (2x16 GB)
 
 #### **SSD**
 Samsung 970 Evo 1 TB m.2 SSD
@@ -289,7 +293,7 @@ Samsung PM981a 512 GB m.2 SSD
 
 <img src="./Readme Resources/Playing/Snake.svg" alt="Snake"/>
 
-###### Last update of README.md file: 20 October 2024
+###### Last update of README.md file: 23 October 2024
 
 <p align="center">
   <a href="#readme-top"> <img src="./Readme Resources/Back to Top.png" alt="Back to Top" height="64"/> </a>
