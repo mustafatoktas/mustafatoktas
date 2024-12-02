@@ -237,13 +237,17 @@ hobbies:
         <td colspan="3" align="left"><strong>Other Projects</strong></td>
     </tr>
     <tr>
-        <td rowspan="2" align="center">O</td>
-        <td><a href="https://github.com/mustafatoktas/O_DosyaTasima">Dosya Taşıma</a></td>
-        <td>An application that moves files from a source folder and all its subfolders to a target folder</td>
+        <td rowspan="3" align="center">O</td>
+        <td><a href="https://github.com/mustafatoktas/O_ProblemCozumleri-VeriYapilariVeAlgoritmalar">Problem Çözümleri: Veri Yapıları ve Algoritmalar</a></td>
+        <td>A collection of solutions to algorithm problems and data structure challenges, focused on improving coding and problem-solving skills</td>
     </tr>
     <tr>
         <td><a href="https://github.com/mustafatoktas/O_Makalelerim">Makalelerim</a></td>
         <td>A collection of articles on software development and technology</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/mustafatoktas/O_DosyaTasima">Dosya Taşıma</a></td>
+        <td>An application that moves files from a source folder and all its subfolders to a target folder</td>
     </tr>
 </table>
 
@@ -293,7 +297,7 @@ Samsung PM981a 512 GB m.2 SSD
 
 <img src="./Readme Resources/Playing/Snake.svg" alt="Snake"/>
 
-###### Last update of README.md file: 23 October 2024
+###### Last update of README.md file: 2 December 2024
 
 <p align="center">
   <a href="#readme-top"> <img src="./Readme Resources/Back to Top.png" alt="Back to Top" height="64"/> </a>
