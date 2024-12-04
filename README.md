@@ -251,6 +251,10 @@ hobbies:
     </tr>
 </table>
 
+> Some of the repositories listed in the table may be set to **private**,
+  so you might not be able to access them even if you click the links.
+  If you'd like to review a **private project**, feel free to reach out to me.
+
 
 ![-----------------------------------------------------](./Readme%20Resources/Line.png)
 
@@ -297,7 +301,7 @@ Samsung PM981a 512 GB m.2 SSD
 
 <img src="./Readme Resources/Playing/Snake.svg" alt="Snake"/>
 
-###### Last update of README.md file: 2 December 2024
+###### Last update of README.md file: 4 December 2024
 
 <p align="center">
   <a href="#readme-top"> <img src="./Readme Resources/Back to Top.png" alt="Back to Top" height="64"/> </a>
