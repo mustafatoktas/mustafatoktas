@@ -160,7 +160,11 @@ hobbies:
         <td colspan="3" align="left"><strong>Android Projects</strong></td>
     </tr>
     <tr>
-        <td rowspan="4" align="center">A</td>
+        <td rowspan="5" align="center">A</td>
+        <td><a href="https://github.com/mustafatoktas/A_40Takla">40 Takla</a></td>
+        <td>An application that allows you to make the screen perform 40 flips</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/mustafatoktas/A_TakeNote">Take Note</a></td>
         <td>An application that allows users to take, edit and organize notes locally on their device</td>
     </tr>
@@ -301,7 +305,7 @@ Samsung PM981a 512 GB m.2 SSD
 
 <img src="./Readme Resources/Playing/Snake.svg" alt="Snake"/>
 
-###### Last update of README.md file: 4 December 2024
+###### Last update of README.md file: 21 December 2024
 
 <p align="center">
   <a href="#readme-top"> <img src="./Readme Resources/Back to Top.png" alt="Back to Top" height="64"/> </a>
