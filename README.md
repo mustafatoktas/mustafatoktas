@@ -31,19 +31,20 @@ current_job: Android & WEB Developer
 company: NULL
 technical_background:
   [
-    "Freelance Software Developer  @Toktasoft             May 2020 - Jul 2024   4 years 3 months",
-    "Software Developer            @Lavira Rocket         Oct 2022 - Jan 2023   4 months",
-    "Software Developer            @KOU ElectriCar        Oct 2021 - Sep 2022   1 year",
-    "Intern R&D Engineer           @Daiichi Electronics   Jul 2021 - Aug 2021   2 months",
+    "Freelance Software Developer     @Toktasoft             May 2020 - Jul 2024   4 years 3 months",
+    "Software Developer               @Lavira Rocket         Oct 2022 - Jan 2023   4 months",
+    "Software Developer               @KOU ElectriCar        Oct 2021 - Sep 2022   1 year",
+    "Intern R&D Engineer              @Daiichi Electronics   Jul 2021 - Aug 2021   2 months",
   ]
 education:
   [
-    "Electrical Engineering        @Kocaeli University",
+    "Electrical Engineering           @Kocaeli University",
+    "Management Information Systems   @Ankara University",
   ]
 languages:
   [
-    "Turkish                       Native",
-    "English                       B1",
+    "Turkish                          Native",
+    "English                          B1",
   ]
 fields_of_interests:
   [
@@ -150,6 +151,10 @@ hobbies:
 
 ## My Repositories
 
+Some of the repositories listed in the table may be set to **private**,
+so you might not be able to access them even if you click the links.
+If you'd like to review a **private project**, feel free to reach out to me.
+
 <table>
     <tr>
         <th align="left">Prefix</th>
@@ -160,7 +165,11 @@ hobbies:
         <td colspan="3" align="left"><strong>Android Projects</strong></td>
     </tr>
     <tr>
-        <td rowspan="5" align="center">A</td>
+        <td rowspan="6" align="center">A</td>
+        <td><a href="https://github.com/mustafatoktas/A_AppVerse">AppVerse</a></td>
+        <td>An application that brings together diverse features and mini-apps under one roof, aiming to deliver a super-app experience</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/mustafatoktas/A_40Takla">40 Takla</a></td>
         <td>An application that allows you to make the screen perform 40 flips</td>
     </tr>
@@ -255,10 +264,6 @@ hobbies:
     </tr>
 </table>
 
-> Some of the repositories listed in the table may be set to **private**,
-  so you might not be able to access them even if you click the links.
-  If you'd like to review a **private project**, feel free to reach out to me.
-
 
 ![-----------------------------------------------------](./Readme%20Resources/Line.png)
 
@@ -305,7 +310,7 @@ Samsung PM981a 512 GB m.2 SSD
 
 <img src="./Readme Resources/Playing/Snake.svg" alt="Snake"/>
 
-###### Last update of README.md file: 21 December 2024
+###### Last update of README.md file: 26 January 2025
 
 <p align="center">
   <a href="#readme-top"> <img src="./Readme Resources/Back to Top.png" alt="Back to Top" height="64"/> </a>
