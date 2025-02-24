@@ -308,9 +308,13 @@ Samsung PM981a 512 GB m.2 SSD
 
 ![-----------------------------------------------------](./Readme%20Resources/Line.png)
 
-<img src="./Readme Resources/Playing/Snake.svg" alt="Snake"/>
+![My GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mustafatoktas&theme=github-compact)
 
-###### Last update of README.md file: 26 January 2025
+<p align="center">
+  <img src="./Readme Resources/Playing/Snake.svg" alt="Snake"/>
+</p>
+
+###### Last update of README.md file: 25 February 2025
 
 <p align="center">
   <a href="#readme-top"> <img src="./Readme Resources/Back to Top.png" alt="Back to Top" height="64"/> </a>
