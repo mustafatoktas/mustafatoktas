@@ -27,7 +27,7 @@ Hey There <img src="./Readme Resources/Playing/Waving Hand.gif" alt="Waving Hand
 name: Mustafa TOKTAŞ
 birth: 1999
 located_in: Kocaeli, Turkey
-current_job: Android & WEB Developer
+current_job: Android & Kotlin Developer
 company: NULL
 technical_background:
   [
@@ -52,7 +52,6 @@ fields_of_interests:
     "Kotlin Multiplatform",
     "Web Development",
   ]
-
 currently_learning:
   [
     "Jetpack Compose", 
@@ -126,25 +125,73 @@ hobbies:
 
 ## My Github Repository Naming
 
-- **A** &nbsp;&nbsp; -> Android Projects
-  - **Just A** &nbsp;&nbsp; -> Functional Android Mobil Projects
-  - **A.UI** &nbsp;&nbsp; -> Android Mobil User Interface Work (non-functional)
-  - **A.W** &nbsp;&nbsp; -> Functional Android Wear Projects
-
-- **W** &nbsp;&nbsp; -> WEB Projects
-  - **W.FS** &nbsp;&nbsp; -> Fullstack Web Projects
-  - **W.BE** &nbsp;&nbsp; -> Back-end Web Projects
-  - **W.FE** &nbsp;&nbsp; -> Front-end Web Projects
-
-- **D** &nbsp;&nbsp; -> Desktop Projects
-  - **Just D** &nbsp;&nbsp; -> Functional Desktop Projects
-  - **D.UI** &nbsp;&nbsp; -> User Interface Work (non-functional)
-
-- **KMP** &nbsp; -> Kotlin Multi-Platform Projects
-  - **Just KMP** &nbsp;&nbsp; -> Functional KMP Projects
-  - **KMP.UI** &nbsp;&nbsp; -> KMP User Interface Work (non-functional)
-  
-- **O** &nbsp;&nbsp; -> Other Projects (for ex. Arduino, Console Projects)
+<table>
+    <tr>
+        <td colspan="2" align="left"><b>A - Android Projects</b></td>
+    </tr>
+    <tr>
+        <td align="center"><b>Just A</b></td>
+        <td>Functional Android Mobil Projects</td>
+    </tr>
+    <tr>
+        <td align="center"><b>A.UI</b></td>
+        <td>Android Mobil User Interface Work (non-functional)</td>
+    </tr>
+    <tr>
+        <td align="center"><b>A.W</b></td>
+        <td>Functional Android Wear Projects</td>
+    </tr>
+    <tr>
+        <td colspan="2"><b>W - WEB Projects</b></td>
+    </tr>
+    <tr>
+        <td align="center"><b>W.FS</b></td>
+        <td>Fullstack Web Projects</td>
+    </tr>
+    <tr>
+        <td align="center"><b>W.BE</b></td>
+        <td>Back-end Web Projects</td>
+    </tr>
+    <tr>
+        <td align="center"><b>W.FE</b></td>
+        <td>Front-end Web Projects</td>
+    </tr>
+    <tr>
+        <td colspan="2"><b>D - Desktop Projects</b></td>
+    </tr>
+    <tr>
+        <td align="center"><b>Just D</b></td>
+        <td>Functional Desktop Projects</td>
+    </tr>
+    <tr>
+        <td align="center"><b>D.UI</b></td>
+        <td>User Interface Work (non-functional)</td>
+    </tr>
+        <tr>
+        <td colspan="2"><b>KMP - Kotlin Multi-Platform Projects</b></td>
+    </tr>
+    <tr>
+        <td align="center"><b>Just KMP</b></td>
+        <td>Functional KMP Projects</td>
+    </tr>
+    <tr>
+        <td align="center"><b>KMP.UI</b></td>
+        <td>KMP User Interface Work (non-functional)</td>
+    </tr>
+    </tr>
+        <tr>
+        <td colspan="2"><b>O - Other Projects</b></td>
+        </tr>
+        <tr>
+        <td align="center"><b>Just O</b></td>
+        <td>Other Projects (for ex. Console Projects)</td>
+    </tr>
+    </tr>
+        <tr>
+        <td align="center"><b>O.ARD</b></td>
+        <td>Arduino Projects</td>
+    </tr>
+</table>
 
 
 ![-----------------------------------------------------](./Readme%20Resources/Line.png)
@@ -165,9 +212,13 @@ If you'd like to review a **private project**, feel free to reach out to me.
         <td colspan="3" align="left"><strong>Android Projects</strong></td>
     </tr>
     <tr>
-        <td rowspan="6" align="center">A</td>
+        <td rowspan="7" align="center">A</td>
         <td><a href="https://github.com/mustafatoktas/A_AppVerse">AppVerse</a></td>
         <td>An application that brings together diverse features and mini-apps under one roof, aiming to deliver a super-app experience</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/mustafatoktas/A_Calculator">Calculator</a></td>
+        <td>An application that allows you to effortlessly perform basic arithmetic operations with a sleek, user-friendly design</td>
     </tr>
     <tr>
         <td><a href="https://github.com/mustafatoktas/A_40Takla">40 Takla</a></td>
@@ -314,7 +365,7 @@ Samsung PM981a 512 GB m.2 SSD
   <img src="./Readme Resources/Playing/Snake.svg" alt="Snake"/>
 </p>
 
-###### Last update of README.md file: 25 February 2025
+###### Last update of README.md file: 4 March 2025
 
 <p align="center">
   <a href="#readme-top"> <img src="./Readme Resources/Back to Top.png" alt="Back to Top" height="64"/> </a>
