@@ -130,52 +130,52 @@ hobbies:
         <td colspan="2" align="left"><b>A - Android Projects</b></td>
     </tr>
     <tr>
-        <td align="center"><b>Just A</b></td>
+        <td><b>Just A</b></td>
         <td>Functional Android Mobil Projects</td>
     </tr>
     <tr>
-        <td align="center"><b>A.UI</b></td>
+        <td><b>A.UI</b></td>
         <td>Android Mobil User Interface Work (non-functional)</td>
     </tr>
     <tr>
-        <td align="center"><b>A.W</b></td>
+        <td><b>A.W</b></td>
         <td>Functional Android Wear Projects</td>
     </tr>
     <tr>
         <td colspan="2"><b>W - WEB Projects</b></td>
     </tr>
     <tr>
-        <td align="center"><b>W.FS</b></td>
+        <td><b>W.FS</b></td>
         <td>Fullstack Web Projects</td>
     </tr>
     <tr>
-        <td align="center"><b>W.BE</b></td>
+        <td><b>W.BE</b></td>
         <td>Back-end Web Projects</td>
     </tr>
     <tr>
-        <td align="center"><b>W.FE</b></td>
+        <td><b>W.FE</b></td>
         <td>Front-end Web Projects</td>
     </tr>
     <tr>
         <td colspan="2"><b>D - Desktop Projects</b></td>
     </tr>
     <tr>
-        <td align="center"><b>Just D</b></td>
+        <td><b>Just D</b></td>
         <td>Functional Desktop Projects</td>
     </tr>
     <tr>
-        <td align="center"><b>D.UI</b></td>
+        <td><b>D.UI</b></td>
         <td>User Interface Work (non-functional)</td>
     </tr>
         <tr>
         <td colspan="2"><b>KMP - Kotlin Multi-Platform Projects</b></td>
     </tr>
     <tr>
-        <td align="center"><b>Just KMP</b></td>
+        <td><b>Just KMP</b></td>
         <td>Functional KMP Projects</td>
     </tr>
     <tr>
-        <td align="center"><b>KMP.UI</b></td>
+        <td><b>KMP.UI</b></td>
         <td>KMP User Interface Work (non-functional)</td>
     </tr>
     </tr>
@@ -183,12 +183,12 @@ hobbies:
         <td colspan="2"><b>O - Other Projects</b></td>
         </tr>
         <tr>
-        <td align="center"><b>Just O</b></td>
+        <td><b>Just O</b></td>
         <td>Other Projects (for ex. Console Projects)</td>
     </tr>
     </tr>
         <tr>
-        <td align="center"><b>O.ARD</b></td>
+        <td><b>O.ARD</b></td>
         <td>Arduino Projects</td>
     </tr>
 </table>
