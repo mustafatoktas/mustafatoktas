@@ -212,9 +212,13 @@ If you'd like to review a **private project**, feel free to reach out to me.
         <td colspan="3" align="left"><strong>Android Projects</strong></td>
     </tr>
     <tr>
-        <td rowspan="7" align="center">A</td>
+        <td rowspan="8" align="center">A</td>
         <td><a href="https://github.com/mustafatoktas/A_AppVerse">AppVerse</a></td>
         <td>An application that brings together diverse features and mini-apps under one roof, aiming to deliver a super-app experience</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/mustafatoktas/A_Compass">Compass</a></td>
+        <td>An application that helps you determine your direction using an accurate and responsive compass</td>
     </tr>
     <tr>
         <td><a href="https://github.com/mustafatoktas/A_Calculator">Calculator</a></td>
@@ -365,7 +369,7 @@ Samsung PM981a 512 GB m.2 SSD
   <img src="./Readme Resources/Playing/Snake.svg" alt="Snake"/>
 </p>
 
-###### Last update of README.md file: 4 March 2025
+###### Last update of README.md file: 7 March 2025
 
 <p align="center">
   <a href="#readme-top"> <img src="./Readme Resources/Back to Top.png" alt="Back to Top" height="64"/> </a>
