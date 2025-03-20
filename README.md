@@ -114,10 +114,11 @@ hobbies:
 ## Tool and Other
 
 <p align="left">
-  <a href="https://www.postman.com" target="_blank"> <img src="./Readme Resources/Tool and Other/Postman.png" alt="Postman" width="64"/> </a>
-  <a href="https://gradle.org"      target="_blank"> <img src="./Readme Resources/Tool and Other/Gradle.png"  alt="Gradle"  width="64"/> </a>
-  <a href="https://git-scm.com"     target="_blank"> <img src="./Readme Resources/Tool and Other/Git.png"     alt="Git"     width="64"/> </a>
-  <a href="https://github.com"      target="_blank"> <img src="./Readme Resources/Tool and Other/Github.png"  alt="Github"  width="64"/> </a>
+  <a href="https://www.postman.com" target="_blank"> <img src="./Readme Resources/Tool and Other/Postman.png"    alt="Postman"    width="64"/> </a>
+  <a href="https://onesignal.com"   target="_blank"> <img src="./Readme Resources/Tool and Other/One Signal.png" alt="One Signal" width="64"/> </a>
+  <a href="https://gradle.org"      target="_blank"> <img src="./Readme Resources/Tool and Other/Gradle.png"     alt="Gradle"     width="64"/> </a>
+  <a href="https://git-scm.com"     target="_blank"> <img src="./Readme Resources/Tool and Other/Git.png"        alt="Git"        width="64"/> </a>
+  <a href="https://github.com"      target="_blank"> <img src="./Readme Resources/Tool and Other/Github.png"     alt="Github"     width="64"/> </a>
 </p>
 
 
@@ -369,7 +370,7 @@ Samsung PM981a 512 GB m.2 SSD
   <img src="./Readme Resources/Playing/Snake.svg" alt="Snake"/>
 </p>
 
-###### Last update of README.md file: 7 March 2025
+###### Last update of README.md file: 20 March 2025
 
 <p align="center">
   <a href="#readme-top"> <img src="./Readme Resources/Back to Top.png" alt="Back to Top" height="64"/> </a>
