@@ -44,7 +44,7 @@ education:
 languages:
   [
     "Turkish                          Native",
-    "English                          B1",
+    "English                          Currently improving",
   ]
 fields_of_interests:
   [
@@ -127,71 +127,81 @@ hobbies:
 ## My Github Repository Naming
 
 <table>
-    <tr>
-        <td colspan="2" align="left"><b>A - Android Projects</b></td>
-    </tr>
-    <tr>
-        <td><b>Just A</b></td>
-        <td>Functional Android Mobil Projects</td>
-    </tr>
-    <tr>
-        <td><b>A.UI</b></td>
-        <td>Android Mobil User Interface Work (non-functional)</td>
-    </tr>
-    <tr>
-        <td><b>A.W</b></td>
-        <td>Functional Android Wear Projects</td>
-    </tr>
-    <tr>
-        <td colspan="2"><b>W - WEB Projects</b></td>
-    </tr>
-    <tr>
-        <td><b>W.FS</b></td>
-        <td>Fullstack Web Projects</td>
-    </tr>
-    <tr>
-        <td><b>W.BE</b></td>
-        <td>Back-end Web Projects</td>
-    </tr>
-    <tr>
-        <td><b>W.FE</b></td>
-        <td>Front-end Web Projects</td>
-    </tr>
-    <tr>
-        <td colspan="2"><b>D - Desktop Projects</b></td>
-    </tr>
-    <tr>
-        <td><b>Just D</b></td>
-        <td>Functional Desktop Projects</td>
-    </tr>
-    <tr>
-        <td><b>D.UI</b></td>
-        <td>User Interface Work (non-functional)</td>
-    </tr>
-        <tr>
-        <td colspan="2"><b>KMP - Kotlin Multi-Platform Projects</b></td>
-    </tr>
-    <tr>
-        <td><b>Just KMP</b></td>
-        <td>Functional KMP Projects</td>
-    </tr>
-    <tr>
-        <td><b>KMP.UI</b></td>
-        <td>KMP User Interface Work (non-functional)</td>
-    </tr>
-    </tr>
-        <tr>
-        <td colspan="2"><b>O - Other Projects</b></td>
-        </tr>
-        <tr>
-        <td><b>Just O</b></td>
-        <td>Other Projects (for ex. Console Projects)</td>
-    </tr>
-    </tr>
-        <tr>
-        <td><b>O.ARD</b></td>
-        <td>Arduino Projects</td>
-    </tr>
+  <tr>
+    <th colspan="2" align="left">📱 <b>A - Android Projects</b></th>
+  </tr>
+  <tr>
+    <td><b>Just A</b></td>
+    <td>Functional Android Mobile Projects</td>
+  </tr>
+  <tr>
+    <td><b>A.UI</b></td>
+    <td>Android Mobile UI Work (non-functional)</td>
+  </tr>
+  <tr>
+    <td><b>A.W</b></td>
+    <td>Functional Android Wear Projects</td>
+  </tr>
+
+  <tr>
+    <th colspan="2" align="left">🌐 <b>W - Web Projects</b></th>
+  </tr>
+  <tr>
+    <td><b>W.FS</b></td>
+    <td>Fullstack Web Projects</td>
+  </tr>
+  <tr>
+    <td><b>W.BE</b></td>
+    <td>Back-end Web Projects</td>
+  </tr>
+  <tr>
+    <td><b>W.FE</b></td>
+    <td>Front-end Web Projects</td>
+  </tr>
+
+  <tr>
+    <th colspan="2" align="left">🖥️ <b>D - Desktop Projects</b></th>
+  </tr>
+  <tr>
+    <td><b>Just D</b></td>
+    <td>Functional Desktop Projects</td>
+  </tr>
+  <tr>
+    <td><b>D.UI</b></td>
+    <td>Desktop UI Work (non-functional)</td>
+  </tr>
+
+  <tr>
+    <th colspan="2" align="left">🧩 <b>KMP - Kotlin Multi-Platform Projects</b></th>
+  </tr>
+  <tr>
+    <td><b>Just KMP</b></td>
+    <td>Functional KMP Projects</td>
+  </tr>
+  <tr>
+    <td><b>KMP.UI</b></td>
+    <td>KMP UI Work (non-functional)</td>
+  </tr>
+
+  <tr>
+    <th colspan="2" align="left">🎓 <b>B - Bootcamp Projects</b></th>
+  </tr>
+   <tr>
+    <td><b>Just B</b></td>
+    <td>All Bootcamp Exercises, Assignments & Demos</td>
+  </tr>
+
+  <tr>
+    <th colspan="2" align="left">🛠️ <b>O - Other Projects</b></th>
+  </tr>
+  <tr>
+    <td><b>Just O</b></td>
+    <td>Other Projects (e.g. Console-based)</td>
+  </tr>
+  <tr>
+    <td><b>O.ARD</b></td>
+    <td>Arduino Projects</td>
+  </tr>
 </table>
 
 
@@ -210,12 +220,17 @@ If you'd like to review a **private project**, feel free to reach out to me.
         <th align="left">Description</th>
     </tr>
     <tr>
-        <td colspan="3" align="left"><strong>Android Projects</strong></td>
+        <td colspan="3" align="left"><strong>📱 Android Projects</strong></td>
     </tr>
     <tr>
-        <td rowspan="8" align="center">A</td>
-        <td><a href="https://github.com/mustafatoktas/A_AppVerse">AppVerse</a></td>
-        <td>An application that brings together diverse features and mini-apps under one roof, aiming to deliver a super-app experience</td>
+      <td rowspan="8" align="center">A</td>
+      <td>
+        <a href="https://github.com/mustafatoktas/A_AppVerse" style="display: inline-flex; align-items: center; gap: 8px;">
+          <img src="./Readme Resources/Repo Icons/AppVerse Logo.png" alt="AppVerse Logo" width="38"/>
+          <span>AppVerse</span>
+        </a>
+      </td>
+    <td>An application that brings together diverse features and mini-apps under one roof, aiming to deliver a super-app experience</td>
     </tr>
     <tr>
         <td><a href="https://github.com/mustafatoktas/A_Compass">Compass</a></td>
@@ -250,7 +265,7 @@ If you'd like to review a **private project**, feel free to reach out to me.
         <td><a href="https://github.com/mustafatoktas/A.UI_Login">Login</a></td>
         <td>An interface design for login and sign-up pages</td>
     </tr>
-        <tr>
+    <tr>
         <td><a href="https://github.com/mustafatoktas/A.UI_Weather">Weather</a></td>
         <td>An interface design that provides users with real-time weather updates and forecasts</td>
     </tr>
@@ -263,7 +278,7 @@ If you'd like to review a **private project**, feel free to reach out to me.
         <td>A wallet app interface design that allows users to track their payments</td>
     </tr>
     <tr>
-        <td colspan="3" align="left"><strong>WEB Projects</strong></td>
+        <td colspan="3" align="left"><strong>🌐 WEB Projects</strong></td>
     </tr>
     <tr>
         <td rowspan="4" align="center">W.BE</td>
@@ -283,7 +298,7 @@ If you'd like to review a **private project**, feel free to reach out to me.
         <td>An API that provides prayer times in JSON format</td>
     </tr>
     <tr>
-        <td colspan="3" align="left"><strong>Desktop Projects</strong></td>
+        <td colspan="3" align="left"><strong>🖥️ Desktop Projects</strong></td>
     </tr>
     <tr>
         <td rowspan="2" align="center">D</td>
@@ -295,7 +310,7 @@ If you'd like to review a **private project**, feel free to reach out to me.
         <td>An application that compares and beautifies JSON data</td>
     </tr>
     <tr>
-        <td colspan="3" align="left"><strong>Kotlin Multi-Platform Projects</strong></td>
+        <td colspan="3" align="left"><strong>🧩 Kotlin Multi-Platform Projects</strong></td>
     </tr>
     <tr>
         <td rowspan="1" align="center">KMP</td>
@@ -303,7 +318,15 @@ If you'd like to review a **private project**, feel free to reach out to me.
         <td>Empty</td>
     </tr>
     <tr>
-        <td colspan="3" align="left"><strong>Other Projects</strong></td>
+        <td colspan="3" align="left"><strong>🎓 Bootcamp Projects</strong></td>
+    </tr>
+    <tr>
+        <td rowspan="1" align="center">B</td>
+        <td><a href="https://github.com/mustafatoktas">Empty</a></td>
+        <td>Empty</td>
+    </tr>
+    <tr>
+        <td colspan="3" align="left"><strong>🛠️ Other Projects</strong></td>
     </tr>
     <tr>
         <td rowspan="3" align="center">O</td>
@@ -341,26 +364,27 @@ Turkish Industrial Property Law Number 6769 to be protected for a period of ten 
 
 <img align="right" src="./Readme Resources/Playing/Coder Boy.gif" alt="Coder Boy" width="450"/>
  
-#### **CPU**
+#### 🧠 **CPU**
 Intel Comet Lake Core i7-10875H
 
-#### **GPU**
+#### 🎮 **GPU**
 Nvidia GeForce RTX 2070 Super
 
-#### **RAM**
+#### 🧵 **RAM**
 Corsair Vengeance 32 GB (2x16 GB)
 
-#### **SSD**
+#### 💾 **SSD**
 Samsung 970 Evo 1 TB m.2 SSD
 <br>
 Samsung PM981a 512 GB m.2 SSD
 
 
 ![-----------------------------------------------------](./Readme%20Resources/Line.png)
-
+zkwnqscdgx6u9ft
 <div align="center">
-  <a href="https://github.com/mustafatoktas/W.BE_RepoVisitorCounterAPI" target="_blank"> <img src="https://toktasoft.com/api/github2/repo-visitor-counter.php?repo=zkwnqscdgx6u9ft&show_repo_name=1&show_date=1&show_brand=0&txt_color=255,255,255&bg_color=45,52,58" alt="Repo Visitor Counter"/> </a>
+  <a href="https://github.com/mustafatoktas/W.BE_RepoVisitorCounterAPI" target="_blank"> <img src="https://toktasoft.com/api/github2/repo-visitor-counter.php?repo=&show_repo_name=1&show_date=1&show_brand=0&txt_color=255,255,255&bg_color=45,52,58" alt="Repo Visitor Counter"/> </a>
 </div>
+
 
 ![-----------------------------------------------------](./Readme%20Resources/Line.png)
 
@@ -370,7 +394,7 @@ Samsung PM981a 512 GB m.2 SSD
   <img src="./Readme Resources/Playing/Snake.svg" alt="Snake"/>
 </p>
 
-###### Last update of README.md file: 20 March 2025
+###### Last update of README.md file: 30 May 2025
 
 <p align="center">
   <a href="#readme-top"> <img src="./Readme Resources/Back to Top.png" alt="Back to Top" height="64"/> </a>
