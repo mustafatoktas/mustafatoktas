@@ -9,14 +9,15 @@ Hey There <img src="./Readme Resources/Playing/Waving Hand.gif" alt="Waving Hand
 </div>
 
 <div align="center">
-  <a href="mailto:info@mustafatoktas.com"                                 target="_blank"> <img src="./Readme Resources/Social Media/Mail.png"              alt="Mail"              width="64"/> </a>
-  <a href="https://www.linkedin.com/in/mustafatoktas/"                    target="_blank"> <img src="./Readme Resources/Social Media/LinkedIn.png"          alt="Linkedin"          width="64"/> </a>
-  <a href="https://www.youtube.com/@mustafatoktas"                        target="_blank"> <img src="./Readme Resources/Social Media/YouTube.png"           alt="Youtube"           width="64"/> </a>
-  <a href="https://play.google.com/store/apps/dev?id=6260246374653032875" target="_blank"> <img src="./Readme Resources/Social Media/Google Play Store.png" alt="Google Play Store" width="64"/> </a>
-  <a href="https://www.mustafatoktas.com"                                 target="_blank"> <img src="./Readme Resources/Social Media/My Website.png"        alt="My Website"        width="64"/> </a>
-  <a href="https://www.instagram.com/mustafatoktas00/"                    target="_blank"> <img src="./Readme Resources/Social Media/Instagram.png"         alt="Instagram"         width="64"/> </a>
-  <a href="https://x.com/hexadecimalism"                                  target="_blank"> <img src="./Readme Resources/Social Media/X.png"                 alt="X"                 width="64"/> </a>
-  <a href="https://steamcommunity.com/id/mustafatoktas/"                  target="_blank"> <img src="./Readme Resources/Social Media/Steam.png"             alt="Steam"             width="64"/> </a>
+  <a href="mailto:info@mustafatoktas.com"                                 target="_blank"><img src="./Readme Resources/Social Media/Mail.png"              alt="Mail"              width="64"/></a>
+  <a href="https://www.linkedin.com/in/mustafatoktas/"                    target="_blank"><img src="./Readme Resources/Social Media/LinkedIn.png"          alt="Linkedin"          width="64"/></a>
+  <a href="https://www.youtube.com/@mustafatoktas"                        target="_blank"><img src="./Readme Resources/Social Media/YouTube.png"           alt="Youtube"           width="64"/></a>
+  <a href="https://play.google.com/store/apps/dev?id=6260246374653032875" target="_blank"><img src="./Readme Resources/Social Media/Google Play Store.png" alt="Google Play Store" width="64"/></a>
+  <a href="https://www.mustafatoktas.com"                                 target="_blank"><img src="./Readme Resources/Social Media/My Website.png"        alt="My Website"        width="64"/></a>
+  <a href="https://www.instagram.com/mustafatoktas00/"                    target="_blank"><img src="./Readme Resources/Social Media/Instagram.png"         alt="Instagram"         width="64"/></a>
+  <a href="https://steamcommunity.com/id/mustafatoktas/"                  target="_blank"><img src="./Readme Resources/Social Media/Steam.png"             alt="Steam"             width="64"/></a>
+  <a href="https://x.com/hexadecimalism"                                  target="_blank"><img src="./Readme Resources/Social Media/X.png"                 alt="X"                 width="64"/></a>
+  <a href="https://bsky.app/profile/mustafatoktas.bsky.social"            target="_blank"><img src="./Readme Resources/Social Media/Bluesky.png"           alt="BLuesky"           width="64"/></a>
 </div>
 
 
@@ -74,52 +75,52 @@ hobbies:
 ## Language & Framework
 
 <div align="left">
-  <a href="https://kotlinlang.org"                              target="_blank"> <img src="./Readme Resources/Language & Framework/Kotlin.png"          alt="Kotlin"          width="64"/> </a>
-  <a href="https://developer.android.com/jetpack/compose"       target="_blank"> <img src="./Readme Resources/Language & Framework/Jetpack Compose.png" alt="Jetpack Compose" width="64"/> </a>
-  <a href="https://kobweb.varabyte.com"                         target="_blank"> <img src="./Readme Resources/Language & Framework/Kobweb.png"          alt="Kobweb"          width="64"/> </a>
-  <a href="https://ktor.io"                                     target="_blank"> <img src="./Readme Resources/Language & Framework/Ktor.png"            alt="Ktor"            width="64"/> </a>
-  <img src="./Readme Resources/Language & Framework/C.png"                                                                                              alt="C"               width="64"/>
-  <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank"> <img src="./Readme Resources/Language & Framework/C Sharp.png"         alt="C#"              width="64"/> </a>
+  <a href="https://kotlinlang.org"                              target="_blank"><img src="./Readme Resources/Language & Framework/Kotlin.png"          alt="Kotlin"          width="64"/></a>
+  <a href="https://developer.android.com/jetpack/compose"       target="_blank"><img src="./Readme Resources/Language & Framework/Jetpack Compose.png" alt="Jetpack Compose" width="64"/></a>
+  <a href="https://kobweb.varabyte.com"                         target="_blank"><img src="./Readme Resources/Language & Framework/Kobweb.png"          alt="Kobweb"          width="64"/></a>
+  <a href="https://ktor.io"                                     target="_blank"><img src="./Readme Resources/Language & Framework/Ktor.png"            alt="Ktor"            width="64"/></a>
+  <img src="./Readme Resources/Language & Framework/C.png"                                                                                             alt="C"               width="64"/>
+  <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank"><img src="./Readme Resources/Language & Framework/C Sharp.png"         alt="C#"              width="64"/></a>
 </div>
 
 
 ## Database
 
 <div align="left">
-  <a href="https://firebase.google.com"       target="_blank"> <img src="./Readme Resources/Database/Firebase.png" alt="Firebase" width="64"/> </a>
-  <a href="https://www.mongodb.com"           target="_blank"> <img src="./Readme Resources/Database/Mongo DB.png" alt="Mongo DB" width="64"/> </a>
-  <a href="https://www.sqlite.org/index.html" target="_blank"> <img src="./Readme Resources/Database/Sqlite.png"   alt="SQLite"   width="64"/> </a>
+  <a href="https://firebase.google.com"       target="_blank"><img src="./Readme Resources/Database/Firebase.png" alt="Firebase" width="64"/></a>
+  <a href="https://www.mongodb.com"           target="_blank"><img src="./Readme Resources/Database/Mongo DB.png" alt="Mongo DB" width="64"/></a>
+  <a href="https://www.sqlite.org/index.html" target="_blank"><img src="./Readme Resources/Database/Sqlite.png"   alt="SQLite"   width="64"/></a>
 </div>
 
 
 ## IDE
 
 <div align="left">
-  <a href="https://developer.android.com/studio/"  target="_blank"> <img src="./Readme Resources/IDE/Android Studio.png" alt="Android Studio" width="64"/> </a>
-  <a href="https://www.jetbrains.com/idea/"        target="_blank"> <img src="./Readme Resources/IDE/IntelliJ.png"       alt="Intellij"       width="64"/> </a>
-  <a href="https://visualstudio.microsoft.com/tr/" target="_blank"> <img src="./Readme Resources/IDE/Visual Studio.png"  alt="Visual Studio"  width="64"/> </a>
-  <a href="https://code.visualstudio.com"          target="_blank"> <img src="./Readme Resources/IDE/VS Code.png"        alt="VS Code"        width="64"/> </a>
-  <a href="https://www.arduino.cc"                 target="_blank"> <img src="./Readme Resources/IDE/Arduino.png"        alt="Arduino IDE"    width="64"/> </a>
+  <a href="https://developer.android.com/studio/"  target="_blank"><img src="./Readme Resources/IDE/Android Studio.png" alt="Android Studio" width="64"/></a>
+  <a href="https://www.jetbrains.com/idea/"        target="_blank"><img src="./Readme Resources/IDE/IntelliJ.png"       alt="Intellij"       width="64"/></a>
+  <a href="https://visualstudio.microsoft.com/tr/" target="_blank"><img src="./Readme Resources/IDE/Visual Studio.png"  alt="Visual Studio"  width="64"/></a>
+  <a href="https://code.visualstudio.com"          target="_blank"><img src="./Readme Resources/IDE/VS Code.png"        alt="VS Code"        width="64"/></a>
+  <a href="https://www.arduino.cc"                 target="_blank"><img src="./Readme Resources/IDE/Arduino.png"        alt="Arduino IDE"    width="64"/></a>
 </div>
 
 
 ## Design
 
 <div align="left">
-  <img src="./Readme Resources/Design/Adobe XD.png"                                                   alt="Adobe XD" width="64"/>
-  <a href="https://www.figma.com"     target="_blank"> <img src="./Readme Resources/Design/Figma.png" alt="Figma"    width="64"/> </a>
-  <a href="https://www.canva.com/en/" target="_blank"> <img src="./Readme Resources/Design/Canva.png" alt="Canva"    width="64"/> </a>
+  <img src="./Readme Resources/Design/Adobe XD.png"                                                  alt="Adobe XD" width="64"/>
+  <a href="https://www.figma.com"     target="_blank"><img src="./Readme Resources/Design/Figma.png" alt="Figma"    width="64"/></a>
+  <a href="https://www.canva.com/en/" target="_blank"><img src="./Readme Resources/Design/Canva.png" alt="Canva"    width="64"/></a>
 </div>
 
 
 ## Tool and Other
 
 <div align="left">
-  <a href="https://www.postman.com" target="_blank"> <img src="./Readme Resources/Tool and Other/Postman.png"    alt="Postman"    width="64"/> </a>
-  <a href="https://onesignal.com"   target="_blank"> <img src="./Readme Resources/Tool and Other/One Signal.png" alt="One Signal" width="64"/> </a>
-  <a href="https://gradle.org"      target="_blank"> <img src="./Readme Resources/Tool and Other/Gradle.png"     alt="Gradle"     width="64"/> </a>
-  <a href="https://git-scm.com"     target="_blank"> <img src="./Readme Resources/Tool and Other/Git.png"        alt="Git"        width="64"/> </a>
-  <a href="https://github.com"      target="_blank"> <img src="./Readme Resources/Tool and Other/Github.png"     alt="Github"     width="64"/> </a>
+  <a href="https://www.postman.com" target="_blank"><img src="./Readme Resources/Tool and Other/Postman.png"    alt="Postman"    width="64"/></a>
+  <a href="https://onesignal.com"   target="_blank"><img src="./Readme Resources/Tool and Other/One Signal.png" alt="One Signal" width="64"/></a>
+  <a href="https://gradle.org"      target="_blank"><img src="./Readme Resources/Tool and Other/Gradle.png"     alt="Gradle"     width="64"/></a>
+  <a href="https://git-scm.com"     target="_blank"><img src="./Readme Resources/Tool and Other/Git.png"        alt="Git"        width="64"/></a>
+  <a href="https://github.com"      target="_blank"><img src="./Readme Resources/Tool and Other/Github.png"     alt="Github"     width="64"/></a>
 </div>
 
 
@@ -569,7 +570,7 @@ Samsung PM981a 512 GB m.2 SSD
 ![-----------------------------------------------------](./Readme%20Resources/Line.png)
 
 <div align="center">
-  <a href="https://github.com/mustafatoktas/W.BE_RepoVisitorCounterAPI" target="_blank"> <img src="https://toktasoft.com/api/github2/repo-visitor-counter.php?repo=zkwnqscdgx6u9ft&show_repo_name=1&show_date=1&show_brand=0&txt_color=255,255,255&bg_color=45,52,58" alt="Repo Visitor Counter"/> </a>
+  <a href="https://github.com/mustafatoktas/W.BE_RepoVisitorCounterAPI" target="_blank"><img src="https://toktasoft.com/api/github2/repo-visitor-counter.php?repo=zkwnqscdgx6u9ft&show_repo_name=1&show_date=1&show_brand=0&txt_color=255,255,255&bg_color=45,52,58" alt="Repo Visitor Counter"/></a>
 </div>
 
 
@@ -584,5 +585,5 @@ Samsung PM981a 512 GB m.2 SSD
 ###### Last update of README.md file: 31 May 2025
 
 <p align="center">
-  <a href="#readme-top"> <img src="./Readme Resources/Back to Top.png" alt="Back to Top" height="64"/> </a>
+  <a href="#readme-top"><img src="./Readme Resources/Back to Top.png" alt="Back to Top" height="64"/></a>
 </p>
