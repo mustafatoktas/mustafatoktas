@@ -4,11 +4,11 @@
 Hey There <img src="./Readme Resources/Playing/Waving Hand.gif" alt="Waving Hand" width="40"/> I'm Mustafa<a name="readme-top"></a>
 </h1>
 
-<div align="center">
+<p align="center">
   <img src="./Readme Resources/Playing/My Job.svg" alt="Headline"/>
-</div>
+</p>
 
-<div align="center">
+<p align="center">
   <a href="mailto:info@mustafatoktas.com"                                 title="Mail"             ><img src="./Readme Resources/Social Media/Mail.png"              alt="Mail"              width="64"/></a>
   <a href="https://www.linkedin.com/in/mustafatoktas/"                    title="Linkedin"         ><img src="./Readme Resources/Social Media/LinkedIn.png"          alt="Linkedin"          width="64"/></a>
   <a href="https://www.youtube.com/@mustafatoktas"                        title="Youtube"          ><img src="./Readme Resources/Social Media/YouTube.png"           alt="Youtube"           width="64"/></a>
@@ -18,7 +18,7 @@ Hey There <img src="./Readme Resources/Playing/Waving Hand.gif" alt="Waving Hand
   <a href="https://steamcommunity.com/id/mustafatoktas/"                  title="Steam"            ><img src="./Readme Resources/Social Media/Steam.png"             alt="Steam"             width="64"/></a>
   <a href="https://x.com/hexadecimalism"                                  title="X"                ><img src="./Readme Resources/Social Media/X.png"                 alt="X"                 width="64"/></a>
   <a href="https://bsky.app/profile/mustafatoktas.bsky.social"            title="Bluesky"          ><img src="./Readme Resources/Social Media/Bluesky.png"           alt="Bluesky"           width="64"/></a>
-</div>
+</p>
 
 
 ![—————————————————————————————————————————————————](./Readme%20Resources/Line.png)
@@ -74,7 +74,7 @@ hobbies:
 
 ## Language & Framework
 
-<div align="left">
+<p align="left">
   <a href="https://kotlinlang.org"                                 title="Kotlin"         ><img src="./Readme Resources/Language & Framework/Kotlin.png"          alt="Kotlin"          width="64"/></a>
   <a href="https://developer.android.com/jetpack/compose"          title="Jetpack Compose"><img src="./Readme Resources/Language & Framework/Jetpack Compose.png" alt="Jetpack Compose" width="64"/></a>
   <a href="https://kobweb.varabyte.com"                            title="Kobweb"         ><img src="./Readme Resources/Language & Framework/Kobweb.png"          alt="Kobweb"          width="64"/></a>
@@ -85,61 +85,49 @@ hobbies:
   <a href="https://www.markdownguide.org"                          title="Markdown"       ><img src="./Readme Resources/Language & Framework/Markdown.png"        alt="Markdown"        width="64"/></a>
   <a href="https://en.wikipedia.org/wiki/JavaScript"               title="JavaScript"     ><img src="./Readme Resources/Language & Framework/JavaScript.png"      alt="JavaScript"      width="64"/></a>
   <a href="https://nodejs.org/en"                                  title="Node.js"        ><img src="./Readme Resources/Language & Framework/NodeJS.png"          alt="Node.js"         width="64"/></a>
-</div>
+</p>
 
 ## IDE & Code Editor
 
-<div align="left">
+<p align="left">
   <a href="https://developer.android.com/studio/"  title="Android Studio"><img src="./Readme Resources/IDE & Code Editor/Android Studio.png" alt="Android Studio" width="64"/></a>
   <a href="https://www.jetbrains.com/idea/"        title="IntelliJ"      ><img src="./Readme Resources/IDE & Code Editor/IntelliJ.png"       alt="IntelliJ"       width="64"/></a>
   <a href="https://visualstudio.microsoft.com/tr/" title="Visual Studio" ><img src="./Readme Resources/IDE & Code Editor/Visual Studio.png"  alt="Visual Studio"  width="64"/></a>
   <a href="https://code.visualstudio.com"          title="VS Code"       ><img src="./Readme Resources/IDE & Code Editor/VS Code.png"        alt="VS Code"        width="64"/></a>
   <a href="https://www.arduino.cc"                 title="Arduino IDE"   ><img src="./Readme Resources/IDE & Code Editor/Arduino.png"        alt="Arduino IDE"    width="64"/></a>
-</div>
+</p>
 
 ## Tools & DevOps
 
-<div align="left">
+<p align="left">
   <a href="https://www.postman.com" title="Postman"   ><img src="./Readme Resources/Tools & DevOps/Postman.png"    alt="Postman"    width="64"/></a>
   <a href="https://onesignal.com"   title="One Signal"><img src="./Readme Resources/Tools & DevOps/One Signal.png" alt="One Signal" width="64"/></a>
   <a href="https://gradle.org"      title="Gradle"    ><img src="./Readme Resources/Tools & DevOps/Gradle.png"     alt="Gradle"     width="64"/></a>
   <a href="https://git-scm.com"     title="Git"       ><img src="./Readme Resources/Tools & DevOps/Git.png"        alt="Git"        width="64"/></a>
   <a href="https://github.com"      title="GitHub"    ><img src="./Readme Resources/Tools & DevOps/Github.png"     alt="GitHub"     width="64"/></a>
-</div>
+</p>
 
 ## Database
 
-<div align="left">
+<p align="left">
   <a href="https://firebase.google.com"       title="Firebase"><img src="./Readme Resources/Database/Firebase.png" alt="Firebase" width="64"/></a>
   <a href="https://www.mongodb.com"           title="Mongo DB"><img src="./Readme Resources/Database/Mongo DB.png" alt="Mongo DB" width="64"/></a>
   <a href="https://www.sqlite.org/index.html" title="SQLite"  ><img src="./Readme Resources/Database/Sqlite.png"   alt="SQLite"   width="64"/></a>
-</div>
+</p>
 
 ## Design
 
-<div align="left">
+<p align="left">
   <img title="Adobe XD" src="./Readme Resources/Design/Adobe XD.png"                               alt="Adobe XD" width="64"/>
   <a href="https://www.figma.com"     title="Figma"><img src="./Readme Resources/Design/Figma.png" alt="Figma"    width="64"/></a>
   <a href="https://www.canva.com/en/" title="Canva"><img src="./Readme Resources/Design/Canva.png" alt="Canva"    width="64"/></a>
-</div>
+</p>
 
 ## AI & Data Science
 
-<div align="left">
+<p align="left">
   <a href="https://www.tensorflow.org" title="Tensor Flow"><img src="./Readme Resources/AI & Data Science/TensorFlow.png" alt="Tensor Flow" width="64"/></a>
-</div>
-
-
-![—————————————————————————————————————————————————](./Readme%20Resources/Line.png)
-
-## My GitHub Insights
-
-![My GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mustafatoktas&theme=github-compact)
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mustafatoktas&rank_icon=percentile&show_icons=true" title="GitHub Stats"        alt="GitHub Stats"        height="210"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafatoktas"                           title="Most Used Languages" alt="Most Used Languages" height="210"/>
-</div>
+</p>
 
 
 ![—————————————————————————————————————————————————](./Readme%20Resources/Line.png)
@@ -599,19 +587,31 @@ Samsung PM981a 512 GB m.2 SSD
 
 ![—————————————————————————————————————————————————](./Readme%20Resources/Line.png)
 
-<div align="center">
-  <a href="https://github.com/mustafatoktas/W.BE_RepoVisitorCounterAPI"><img src="https://toktasoft.com/api/repo-visitor-counter?repo=zkwnqscdgx6u9ft&show_repo_name=1&show_date=1&show_brand=0&txt_color=209,215,224&bg_color=45,52,58" alt="Repo Visitor Counter"/></a>
-</div>
+## My GitHub Insights
+
+![My GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mustafatoktas&theme=github-compact)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mustafatoktas&rank_icon=percentile&show_icons=true" title="GitHub Stats"        alt="GitHub Stats"        height="210"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafatoktas"                           title="Most Used Languages" alt="Most Used Languages" height="210"/>
+</p>
 
 
 ![—————————————————————————————————————————————————](./Readme%20Resources/Line.png)
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/mustafatoktas/W.BE_RepoVisitorCounterAPI"><img src="https://toktasoft.com/api/repo-visitor-counter?repo=zkwnqscdgx6u9ft&show_repo_name=1&show_date=1&show_brand=0&txt_color=209,215,224&bg_color=45,52,58" alt="Repo Visitor Counter"/></a>
+</p>
+
+
+![—————————————————————————————————————————————————](./Readme%20Resources/Line.png)
+
+<p align="center">
   <img src="./Readme Resources/Playing/Snake.svg" title="Snake" alt="Snake"/>
-</div>
+</p>
 
-###### Last update of README.md file: 24 June 2025
+###### Last update of README.md file: 6 July 2025
 
-<div align="center">
+<p align="center">
   <a href="#readme-top"><img src="./Readme Resources/Back to Top.png" alt="Back to Top" height="64"/></a>
-</div>
+</p>
