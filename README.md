@@ -617,7 +617,7 @@ Samsung PM981a 512 GB m.2 SSD
   <img src="./Readme Resources/Playing/Snake.svg" title="Snake" alt="Snake"/>
 </p>
 
-###### Last update of README.md file: 6 July 2025
+###### Last update of README.md file: 18 July 2025
 
 <p align="center">
   <a href="#readme-top"><img src="./Readme Resources/Back to Top.png" alt="Back to Top" height="64"/></a>
