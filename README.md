@@ -286,7 +286,14 @@ If you would like to review a **private project**, feel free to reach out to me.
       </td>
     </tr>
     <tr>
-      <td rowspan="4" align="center">A.UI</td>
+      <td rowspan="5" align="center">A.UI</td>
+      <td align="center"><a href="https://github.com/mustafatoktas/A.UI_Yemeksepeti"><img src="./Readme Resources/Repo Icons/Yemeksepeti UI.png" alt="Yemeksepeti" width="48"/></a></td>
+      <td>
+        <a href="https://github.com/mustafatoktas/A.UI_Yemeksepeti"><b>Yemeksepeti</b></a>
+        <br>
+        <small>An interface design of the Yemeksepeti app where users can order food and shop for groceries</small>
+      </td>
+    </tr>
       <td align="center"><a href="https://github.com/mustafatoktas/A.UI_Login"><img src="./Readme Resources/Repo Icons/Login App UI.png" alt="Login" width="48"/></a></td>
       <td>
         <a href="https://github.com/mustafatoktas/A.UI_Login"><b>Login</b></a>
