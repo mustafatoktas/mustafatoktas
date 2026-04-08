@@ -573,23 +573,41 @@ I created Toktasoft to reflect my ambition of turning independent ideas into pol
 
 ![—————————————————————————————————————————————————](./Readme%20Resources/Line.png)
 
-## My System Specs
+## My System Specs & Workspace
 
 <img align="right" src="./Readme Resources/Playing/Coder Boy.gif" alt="Coder Boy" width="450"/>
- 
-#### 🧠 **CPU**
-Intel Comet Lake Core i7-10875H
 
-#### 🎮 **GPU**
-Nvidia GeForce RTX 2070 Super
+### ⚙️ System Specs
+- 🖲️ **Motherboard:** ASUS TUF Gaming B850-E WIFI
+- 🧠 **CPU:** AMD Ryzen 7 9800X3D
+- 🎮 **GPU:** ASUS TUF Gaming GeForce RTX 5070 Ti
+- 🧵 **RAM:** 32 GB (2×16) Lexar Ares RGB DDR5
+- 💾 **SSD:** 1 TB Lexar NM790 + 1 TB Samsung 970 Evo
+- ❄️ **Cooler:** Thermalright Mjolnir Vision 360 Black ARGB
+- 🧊 **Case:** Corsair 3500X ARGB Mid-Tower
+- 🌀 **Fan:** ASUS TUF Gaming TR120 ARGB
+- ⚡ **PSU:** Corsair RM850e
+- 🪟 **OS:** Windows 11 Home
 
-#### 🧵 **RAM**
-Corsair Vengeance 32 GB (2x16 GB)
+### 🖱️ Peripherals
+- 📺 **Monitor:** ASUS ROG Swift OLED PG27UCDM
+- ⌨️ **Keyboard:** Logitech MX Keys S
+- 🖱️ **Mouse:** Logitech G502 X PLUS + Logitech MX Master 3S
+- 🔊 **Speaker:** Logitech Z207
+- 📷 **Camera:** Logitech BRIO Ultra HD Pro
+- 🎧 **Headset:** Logitech PRO X 2 Lightspeed
+- 🔋 **UPS:** Powerful SLE-2000
+- 🪑 **Chair:** Hawk Fab v6
+- ⬛ **Mouse Pad:** Monster Pusat Control M
 
-#### 💾 **SSD**
-Samsung 970 Evo 1 TB m.2 SSD
-<br>
-Samsung PM981a 512 GB m.2 SSD
+### 🗄️ Server
+- 🌐 **System Monitor:** [Live Server Status](https://go.toktas.tr/server)
+- 🧩 **SoC:** Broadcom BCM2712
+- 🧠 **CPU:** Quad-core ARM Cortex-A76
+- 🧵 **RAM:** 16 GB LPDDR4X
+- 💾 **SSD:** 256 GB Adata SM2P41C3 NVMe M.2
+- 📡 **Connectivity:** 1 Gb Ethernet + Wi-Fi 5
+- 🐧 **OS:** Debian 13 Server (CLI)
 
 
 ![—————————————————————————————————————————————————](./Readme%20Resources/Line.png)
@@ -617,7 +635,7 @@ Samsung PM981a 512 GB m.2 SSD
   <img src="./Readme Resources/Playing/Snake.svg" title="Snake" alt="Snake"/>
 </p>
 
-###### Last update of README.md file: 18 July 2025
+###### Last update of README.md file: 8 April 2026
 
 <p align="center">
   <a href="#readme-top"><img src="./Readme Resources/Back to Top.png" alt="Back to Top" height="64"/></a>
